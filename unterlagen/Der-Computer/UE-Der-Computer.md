@@ -195,7 +195,7 @@ Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu d
 
 ### Lernziele:
 - Die Schüler*innen reflektieren die in den letzten drei Einheiten gelernten Inhalte.
-- Die Schüler*innen erstellen ein Plakat, das die wichtigsten Informationen und Dokumentationen zusammenfasst.
+- Die Schüler*innen erstellen ein digitales Plakat, das die wichtigsten Informationen und Dokumentationen zusammenfasst.
 - Die Schüler*innen erkennen die Präsenz und Bedeutung von Computern in anderen Geräten des Alltags.
 
 ### Unterrichtsablauf
@@ -205,11 +205,11 @@ Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu d
 - **Rückblick**: Kurze Wiederholung der in den letzten drei Stunden behandelten Themen (Computerkomponenten, deren Funktionen und der praktische Umgang mit Hardware).
 
 #### 2. Erarbeitung I: Plakaterstellung (40 Minuten)
-- **Einführung in die Aufgabe**: Erklärung der Aufgabe, ein Plakat zu erstellen, das die wichtigsten Informationen und Dokumentationen der letzten drei Stunden zusammenfasst.
-- **Materialverteilung**: Verteilen von Plakatpapier, Stiften, Scheren, Kleber und den ausgedruckten Fotos und Notizen.
+- **Einführung in die Aufgabe**: Erklärung der Aufgabe, ein digitales Plakat zu erstellen, das die wichtigsten Informationen und Dokumentationen der letzten drei Stunden zusammenfasst.
+- **Materialverteilung**: Verteilen von Tablets oder die Zuweisung von PCs, an den die Plakate erstellt werden können.
 - **Plakaterstellung**: Die Schüler*innen arbeiten in Gruppen (wie in den letzten Stunden) und gestalten ihr Plakat. Dabei sollen sie:
   - Die Funktion und Bedeutung der einzelnen Computerkomponenten darstellen.
-  - Die gemachten Fotos und Notizen verwenden, um den Zerlegungs- und Zusammenbauprozess zu dokumentieren.
+  - Die gemachten Fotos und Notizen verwenden.
   - Kreativ und übersichtlich arbeiten, um die Informationen ansprechend darzustellen.
 
 #### 3. Erarbeitung II: Analogie zu anderen Geräten (20 Minuten)
@@ -231,9 +231,9 @@ Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu d
 - **Abschluss**: Kurze Reflexion über das Gelernte und Ausblick auf die nächste Stunde.
 
 ### Materialien
-- Plakatpapier
-- Stifte, Scheren, Kleber
-- Ausgedruckte Fotos und Notizen aus den letzten drei Stunden
+- Tablet oder PCs
+- Gesicherte Fotos und Notizen der letzten Stunde.
+- Beamer, um die Plakate zu präsentieren.
 - Whiteboard/Smartboard für die Diskussion
 
 ---
@@ -266,4 +266,4 @@ Bezogen auf die [Fachanforderungen des Landes Schleswig-Holstein](https://fachpo
 
 |Nr.| Die Schüler*innen ... | Inhalte|
 |---|---|---|
-|BK4|... erklären die grundlegende Funktionsweise von Hardwarekomponenten und deren Zusammenwirken.|Sensoren und Eingabegeräte, Prozessoren, Speicher
+|BK4|... erklären die grundlegende Funktionsweise von Hardwarekomponenten und deren Zusammenwirken.|Sensoren und Eingabegeräte, Prozessoren, Speicher, Netzwerkkomponenten, Aktoren und Ausgabegeräte|
