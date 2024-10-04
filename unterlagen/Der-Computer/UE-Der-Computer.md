@@ -57,9 +57,8 @@ Das Arbeitsprinzip kann an einem Beispiel erklärt werden, bei dem im Programmsp
 
 ### Materialien
 - Whiteboard/Smartboard/Tafel
-- Arbeitsblatt (optional)
+- [Online Arbeitsblatt für Einheit 1](https://github.com/FHW-Appel/Moin-MINT/wiki/Der-Computer#einheit-1-die-funktionsweise-eines-computers)
 
----
 
 ## Einheit 2: Funktion und Zusammenwirken von Computerkomponenten
 
@@ -114,7 +113,7 @@ Das Arbeitsprinzip kann an einem Beispiel erklärt werden, bei dem im Programmsp
 - Whiteboard/Smartboard
 - Computer oder Tablets für die Internetrecherche
 - Plakatpapier und Stifte für die Gruppenarbeit
-- Arbeitsblatt (optional)
+- [Online Arbeitsblatt für Einheit 2](https://github.com/FHW-Appel/Moin-MINT/wiki/Der-Computer#einheit-2-funktion-und-zusammenwirken-von-computerkomponenten)
 
 ### Anmerkungen
 Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu den verschiedenen Computerkomponenten genutzt werden können:
@@ -132,7 +131,6 @@ Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu d
    - [Wikipedia - Peripheriegeräte](https://de.wikipedia.org/wiki/Peripheriegerät)
    - [Wikipedia - Sensoren und Aktoren](https://de.wikipedia.org/wiki/Sensor)
 
----
 
 ## Einheit 3: Computer zerlegen, dokumentieren und wieder zusammenbauen
 
@@ -185,11 +183,8 @@ Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu d
 - Schraubendreher-Sets
 - Tablets oder Smartphones für die Fotodokumentation
 - Notizblöcke und Stifte für die schriftliche Dokumentation
-
-### Anmerkungen
-- Für diese Unterrichtseinheit kann das [Arbeitsblatt 3](AB3_Rechneraufbau.pdf) verwendet werden.
-
----
+- [Online Arbeitsblatt für Einheit 3](https://github.com/FHW-Appel/Moin-MINT/wiki/Der-Computer#einheit-3-computer-zerlegen-dokumentieren-und-wieder-zusammenbauen)
+- Alternativ das [Arbeitsblatt 3](AB3_Rechneraufbau.pdf) zum ausdrucken.
 
 ## Einheit 4: Reflexion und Analogie zu anderen Geräten
 
@@ -235,6 +230,7 @@ Hier sind einige vertrauenswürdige Internetquellen, die für die Recherche zu d
 - Gesicherte Fotos und Notizen der letzten Stunde.
 - Beamer, um die Plakate zu präsentieren.
 - Whiteboard/Smartboard für die Diskussion
+- [Online Arbeitsblatt für Einheit 4](https://github.com/FHW-Appel/Moin-MINT/wiki/Der-Computer#einheit-4-reflexion-und-analogie-zu-anderen-ger%C3%A4ten)
 
 ---
 
