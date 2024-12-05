@@ -250,7 +250,7 @@ Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das 
 
 |  Sonnenenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \\, \mathrm{kW \\, h}$  | $169 \\, \mathrm{km^2}$  | $0,047 \\, \%$ |
+| $1 \\, \mathrm{kW \\, h}$  | $169 \\, \mathrm{km^2}$  | $0,047 \\, \\%$ |
 | $5 \\, \mathrm{kW \\, h}$  | $847 \\, \mathrm{km^2}$  | $0,24 \\, \%$ |
 | $10 \\, \mathrm{kW \\, h}$  | $1 \\, 693 \\, \mathrm{km^2}$  | $0,47 \\, \%$ |
 | $20 \\, \mathrm{kW \\, h}$  | $3 \\, 387 \\, \mathrm{km^2}$  | $0,94 \\, \%$ |
