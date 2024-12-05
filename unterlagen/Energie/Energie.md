@@ -223,7 +223,7 @@ pie title Flächenbedarf aktuell:
     "Siedlung und Verkehr" : 15
     "Sonstiges" : 5
 ```
-Hierzu ist noch erwähnenswert, dass rund $80 \\, \%$ der Landwirtschaftlich genutzten Fläche für die Fleischproduktion verwendet wird.
+Hierzu ist noch erwähnenswert, dass rund $80 \\, \\%$ der Landwirtschaftlich genutzten Fläche für die Fleischproduktion verwendet wird.
 
 ## 3. Sonne (15 Minuten)
 Anhand der folgenden Karte kann die Sonneneinstrahlung in Deutschland dargestellt werden:
@@ -234,7 +234,7 @@ Anhand der folgenden Karte kann die Sonneneinstrahlung in Deutschland dargestell
 
  In Norddeutschland liegt die jährliche Sonneneinstrahlung bei etwa $1 \\, 100 \\, \mathrm{\frac{kW \\, h}{m^2}}$. Im Sommer ist die Sonneneinstrahlung etwa 5 mal so hoch wie im Winter.
 
-Der Wirkungsgrad von Photovoltaik (Solarzellen) liegt aktuell bei $20 \\, \%$ bis $25 \\, \%$.
+Der Wirkungsgrad von Photovoltaik (Solarzellen) liegt aktuell bei $20 \\, \\%$ bis $25 \\, \\%$.
 
 Die durchschnittliche tägliche Leistung pro Quadratmeter lässt sich wie folgt berechnen: 
 
@@ -246,23 +246,23 @@ $$\left( \frac{E_\mathrm{el}}{A} \right)^{-1} = \left( 0,6 \\, \mathrm{\frac{kW 
 
 Es werden somit etwa $2 \\, \mathrm{m^2}$ pro Kilowattstunde benötigt, die durchschnittlich an einem Tag gewonnen werden können, wenn man Aufstellungsabstände mit berücksichtigt.
 
-Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das eine Fläche von $169 \\, 338 \\, 000 \\, \mathrm{m^2}$ bzw. $16 \\, 933,8 \\, \mathrm{ha}$ bzw. $169, 338 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,047 \\, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das eine Fläche von $169 \\, 338 \\, 000 \\, \mathrm{m^2}$ bzw. $16 \\, 933,8 \\, \mathrm{ha}$ bzw. $169, 338 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,047 \\, \\%$ entspricht.
 
 |  Sonnenenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
 | $1 \\, \mathrm{kW \\, h}$  | $169 \\, \mathrm{km^2}$  | $0,047 \\, \\%$ |
-| $5 \\, \mathrm{kW \\, h}$  | $847 \\, \mathrm{km^2}$  | $0,24 \\, \%$ |
-| $10 \\, \mathrm{kW \\, h}$  | $1 \\, 693 \\, \mathrm{km^2}$  | $0,47 \\, \%$ |
-| $20 \\, \mathrm{kW \\, h}$  | $3 \\, 387 \\, \mathrm{km^2}$  | $0,94 \\, \%$ |
-| $30 \\, \mathrm{kW \\, h}$  | $5 \\, 080 \\, \mathrm{km^2}$  | $1,4 \\, \%$ |
-| $50 \\, \mathrm{kW \\, h}$  | $8 \\, 467 \\, \mathrm{km^2}$  | $2,4 \\, \%$ |
-| $100 \\, \mathrm{kW \\, h}$  | $16 \\, 934 \\, \mathrm{km^2}$  | $4,7 \\, \%$ |
+| $5 \\, \mathrm{kW \\, h}$  | $847 \\, \mathrm{km^2}$  | $0,24 \\, \\%$ |
+| $10 \\, \mathrm{kW \\, h}$  | $1 \\, 693 \\, \mathrm{km^2}$  | $0,47 \\, \\%$ |
+| $20 \\, \mathrm{kW \\, h}$  | $3 \\, 387 \\, \mathrm{km^2}$  | $0,94 \\, \\%$ |
+| $30 \\, \mathrm{kW \\, h}$  | $5 \\, 080 \\, \mathrm{km^2}$  | $1,4 \\, \\%$ |
+| $50 \\, \mathrm{kW \\, h}$  | $8 \\, 467 \\, \mathrm{km^2}$  | $2,4 \\, \\%$ |
+| $100 \\, \mathrm{kW \\, h}$  | $16 \\, 934 \\, \mathrm{km^2}$  | $4,7 \\, \\%$ |
 
 Etwa $1 \\, 500  \\, \mathrm{km^2}$ Dachfläche stehen in Deutschland zur Verfügung, für die keine neuen Flächen erschlossen werden müsste. So können die Dachflächen sinnvoll genutzt werden. 
 
 Auch können Photovoltaikanlagen über landwirtschaftlich genutzten Flächen installiert werden, etwa für den Gemüseanbau und der Viehwirtschaft. Eine solche Nutzung wird [Agri-Photovoltaik](https://www.ise.fraunhofer.de/de/leitthemen/integrierte-photovoltaik/agri-photovoltaik-agri-pv.html) genannt.  
 
-[Photovoltaik in Verkehrswegen](https://www.ise.fraunhofer.de/de/leitthemen/integrierte-photovoltaik/verkehrswege-photovoltaik-ripv.html) ist eine weitere Möglichkeit Flächen doppelt zu nutzen. So können Straßen und Fußwege überdacht werden. Etwa $5 \\, \%$ der Fläche in Deutschland wird als Verkehrsweg genutzt.  
+[Photovoltaik in Verkehrswegen](https://www.ise.fraunhofer.de/de/leitthemen/integrierte-photovoltaik/verkehrswege-photovoltaik-ripv.html) ist eine weitere Möglichkeit Flächen doppelt zu nutzen. So können Straßen und Fußwege überdacht werden. Etwa $5 \\, \\%$ der Fläche in Deutschland wird als Verkehrsweg genutzt.  
 
 ## 4. Wind (15 Minuten)
 Anhand der folgenden Karte kann die durchschnittliche Windgeschwindigkeit in Deutschland dargestellt werden:
@@ -281,14 +281,14 @@ mit
 - der spezifischen Dichte von Luft $\rho = 1,2 \\, \mathrm{\frac{kg}{m^3}}$,
 - der vom Windrad umstrichenen Fläche $A$,
 - der Windgeschwindigkeit $v$
-- und dem Wirkungsgrad der Windkraftanlage $\eta$, welcher bei modernen Windkraftanlagen bei bis zu $50 \\, \%$ liegt. 
+- und dem Wirkungsgrad der Windkraftanlage $\eta$, welcher bei modernen Windkraftanlagen bei bis zu $50 \\, \\%$ liegt. 
 
 Aus der Formel kann entnommen werden, dass die folgenden Zusammenhänge gelten:
 -  $2 \\, \times$ Rotordurchmesser = $4 \\, \times$ Leistung
 -  $2 \\, \times$ Windgeschwindigkeit = $8 \\, \times$ Leistung
 
 Zusätzlich ergibt sich aus der Tatsache, dass die Windgeschwindigkeit Bodennah niedriger ist als Bodenfern:
--  $2 \\, \times$ Höhe = $+ 50 \\, \%$ Leistung
+-  $2 \\, \times$ Höhe = $+ 50 \\, \\%$ Leistung
 
 Aus diesen Zusammenhang kann in den roten Gebieten die etwa 8-fache Energiemenge je aufgestellter Windkraftanlage geerntet werden, wie im dem bundesweiten Durchschnitt.
 
@@ -298,54 +298,54 @@ Aus den gegebenen Windgeschwindigkeiten und der Tatsache, dass Windkraftanlagen 
   - Onshore $16 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll.
   - Offshore $8 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll.
 
-Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf an Land von $16 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll, eine Fläche von $1 \\, 354 \\, 704 \\, 000 \\, \mathrm{m^2}$ bzw. $1 \\, 355 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,38 \\, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf an Land von $16 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll, eine Fläche von $1 \\, 354 \\, 704 \\, 000 \\, \mathrm{m^2}$ bzw. $1 \\, 355 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,38 \\, \\%$ entspricht.
 
 |  Onshore Windenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \\, \mathrm{kW \\, h}$  | $1 \\, 355 \\, \mathrm{km^2}$  | $0,38 \\, \%$ |
-| $5 \\, \mathrm{kW \\, h}$  | $6 \\, 774 \\, \mathrm{km^2}$  | $1,9 \\, \%$ |
-| $10 \\, \mathrm{kW \\, h}$  | $13 \\, 547 \\, \mathrm{km^2}$  | $3,8 \\, \%$ |
-| $20 \\, \mathrm{kW \\, h}$  | $27 \\, 094 \\, \mathrm{km^2}$  | $7,6 \\, \%$ |
-| $30 \\, \mathrm{kW \\, h}$  | $40 \\, 641 \\, \mathrm{km^2}$  | $11,4 \\, \%$ |
-| $50 \\, \mathrm{kW \\, h}$  | $67 \\, 735 \\, \mathrm{km^2}$  | $19 \\, \%$ |
-| $100 \\, \mathrm{kW \\, h}$  | $135 \\, 470 \\, \mathrm{km^2}$  | $38 \\, \%$ |
+| $1 \\, \mathrm{kW \\, h}$  | $1 \\, 355 \\, \mathrm{km^2}$  | $0,38 \\, \\%$ |
+| $5 \\, \mathrm{kW \\, h}$  | $6 \\, 774 \\, \mathrm{km^2}$  | $1,9 \\, \\%$ |
+| $10 \\, \mathrm{kW \\, h}$  | $13 \\, 547 \\, \mathrm{km^2}$  | $3,8 \\, \\%$ |
+| $20 \\, \mathrm{kW \\, h}$  | $27 \\, 094 \\, \mathrm{km^2}$  | $7,6 \\, \\%$ |
+| $30 \\, \mathrm{kW \\, h}$  | $40 \\, 641 \\, \mathrm{km^2}$  | $11,4 \\, \\%$ |
+| $50 \\, \mathrm{kW \\, h}$  | $67 \\, 735 \\, \mathrm{km^2}$  | $19 \\, \\%$ |
+| $100 \\, \mathrm{kW \\, h}$  | $135 \\, 470 \\, \mathrm{km^2}$  | $38 \\, \\%$ |
 
 Die errechneten Landflächen scheinen auf den ersten Blick gigantisch zu erscheinen, jedoch muss bedacht werden, dass die Landfläche durch die aufgestellten Windkraftanlagen anderweitig nutzbar sind. So kann zwischen den Windkraftanlagen weiter Landwirtschaft betrieben werden. 
 
-Die durch die Windkraftanlagen versiegelte Fläche ist hingegen vernachlässigbar gering. So werden zwischen $300 \\, \mathrm{m^2}$ bis zu $500 \\, \mathrm{m^2}$ je Windkraftanlage Landfläche versiegelt. Der Turm selbst hat nur eine Grundfläche von etwa $100 \\, \mathrm{m^2}$. Würden wir Windkraftanlagen, wie in der obigen Tabelle dargestellt, bis zu einen maximalen Ertrag von $100 \\, \mathrm{kW \\, h}$ pro Tag und Bundesbürger installieren, dann würde hier eine Landfläche von weniger als $0,1 \\, \%$ versiegelt werden. 
+Die durch die Windkraftanlagen versiegelte Fläche ist hingegen vernachlässigbar gering. So werden zwischen $300 \\, \mathrm{m^2}$ bis zu $500 \\, \mathrm{m^2}$ je Windkraftanlage Landfläche versiegelt. Der Turm selbst hat nur eine Grundfläche von etwa $100 \\, \mathrm{m^2}$. Würden wir Windkraftanlagen, wie in der obigen Tabelle dargestellt, bis zu einen maximalen Ertrag von $100 \\, \mathrm{kW \\, h}$ pro Tag und Bundesbürger installieren, dann würde hier eine Landfläche von weniger als $0,1 \\, \\%$ versiegelt werden. 
 
-Zum Vergleich: Etwa $5 \%$ der bundesdeutschen Landflächen sind durch Verkehrswege versiegelt. 
+Zum Vergleich: Etwa $5 \\%$ der bundesdeutschen Landflächen sind durch Verkehrswege versiegelt. 
 
 Um das Potenzial im Meer abschätzen zu können, kann geschätzt werden, wie groß, das für uns zugängliche Meer ist:
   - Nordseeküste: $\approx 5000 \\, \mathrm{km^2}$
   - Ostseeküste: $\approx 4000 \\, \mathrm{km^2}$
   - 1/4 Doggerbank: $\approx 4000 \\, \mathrm{km^2}$
 
-Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf auf dem Meer von $8 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll, eine Fläche von $677 \\, 352 \\, 000 \\, \mathrm{m^2}$ bzw. $677 \\, \mathrm{km^2}$, was bei einer verfügbaren Meeresfläche von $13 \\, 000  \\, \mathrm{km^2}$ etwa $5,2 \\, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf auf dem Meer von $8 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll, eine Fläche von $677 \\, 352 \\, 000 \\, \mathrm{m^2}$ bzw. $677 \\, \mathrm{km^2}$, was bei einer verfügbaren Meeresfläche von $13 \\, 000  \\, \mathrm{km^2}$ etwa $5,2 \\, \\%$ entspricht.
 
 |  Offshore ⚓ Windenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \\, \mathrm{kW \\, h}$  | $677 \\, \mathrm{km^2}$  | $5,2 \\, \%$ |
-| $5 \\, \mathrm{kW \\, h}$  | $3 \\, 385 \\, \mathrm{km^2}$  | $26 \\, \%$ |
-| $10 \\, \mathrm{kW \\, h}$  | $6 \\, 770 \\, \mathrm{km^2}$  | $52 \\, \%$ |
-| $20 \\, \mathrm{kW \\, h}$  | $13 \\, 540 \\, \mathrm{km^2}$  | $104\\, \%$ |
+| $1 \\, \mathrm{kW \\, h}$  | $677 \\, \mathrm{km^2}$  | $5,2 \\, \\%$ |
+| $5 \\, \mathrm{kW \\, h}$  | $3 \\, 385 \\, \mathrm{km^2}$  | $26 \\, \\%$ |
+| $10 \\, \mathrm{kW \\, h}$  | $6 \\, 770 \\, \mathrm{km^2}$  | $52 \\, \\%$ |
+| $20 \\, \mathrm{kW \\, h}$  | $13 \\, 540 \\, \mathrm{km^2}$  | $104\\, \\%$ |
 
 
 ## 5. Biomasse (5 Minuten)
 
-Der Wirkungsgrad von Photosynthese beträgt bei gewöhnlichen Energiepflanzen $0,2 \\, \%$ bis $0,5 \\, \%$.
+Der Wirkungsgrad von Photosynthese beträgt bei gewöhnlichen Energiepflanzen $0,2 \\, \\%$ bis $0,5 \\, \\%$.
 
 Daraus errechnet sich eine landwirtschaftlichen Flächenbedarf von $100 \\, \mathrm{m^2}$ (gasförmig) bis $200 \\, \mathrm{m^2}$ (flüssig) je gewonnener Kilowattstunde am Tag.
 
 Holz hat einen noch höheren Flächenbedarf.
 
-Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf von durchschnittlich $150 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll, eine Fläche von $12 \\, 700 \\, 000 \\, 000 \\, \mathrm{m^2}$ bzw. $12 \\, 700 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $3,55 \\, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf von durchschnittlich $150 \\, \mathrm{m^2}$ für eine Kilowattstunde die täglich erzeugt werden soll, eine Fläche von $12 \\, 700 \\, 000 \\, 000 \\, \mathrm{m^2}$ bzw. $12 \\, 700 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $3,55 \\, \\%$ entspricht.
 
 |  Biomasse Energie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \\, \mathrm{kW \\, h}$  | $12 \\, 700 \\, \mathrm{km^2}$  | $3,6 \\, \%$ |
-| $5 \\, \mathrm{kW \\, h}$  | $63 \\, 502 \\, \mathrm{km^2}$  | $17,8 \\, \%$ |
-| $10 \\, \mathrm{kW \\, h}$  | $127 \\, 004 \\, \mathrm{km^2}$  | $35,5 \\, \%$ |
+| $1 \\, \mathrm{kW \\, h}$  | $12 \\, 700 \\, \mathrm{km^2}$  | $3,6 \\, \\%$ |
+| $5 \\, \mathrm{kW \\, h}$  | $63 \\, 502 \\, \mathrm{km^2}$  | $17,8 \\, \\%$ |
+| $10 \\, \mathrm{kW \\, h}$  | $127 \\, 004 \\, \mathrm{km^2}$  | $35,5 \\, \\%$ |
 
 Verglichen mit dem Flächenbedarf von Photovoltaik ist diese Form der regenerativen Energiegewinnung reine Flächenverschwendung.
 
@@ -375,13 +375,13 @@ Etwa $17 \\, \mathrm{kW \\, h}$ pro Bundesbürger und Tag werden für das Heizen
 
 |  Anteil der Haushalte, die eine Wärmepumpe nutzen  | ersparte Energie durch Wärmepumpen je Bundesbürger pro Tag |
 | ------------- | ------------- | 
-| $5 \\, \%$ |  $0,9 \\, \mathrm{kW \\, h}$   | 
-| $10 \\, \%$ |  $1,7 \\, \mathrm{kW \\, h}$   | 
-| $20 \\, \%$ |  $3,4 \\, \mathrm{kW \\, h}$   | 
-| $30 \\, \%$ |  $5,1 \\, \mathrm{kW \\, h}$   | 
-| $50 \\, \%$ |  $8,5 \\, \mathrm{kW \\, h}$   | 
-| $80 \\, \%$ |  $13,6 \\, \mathrm{kW \\, h}$   | 
-| $100 \\, \%$ |  $17 \\, \mathrm{kW \\, h}$   | 
+| $5 \\, \\%$ |  $0,9 \\, \mathrm{kW \\, h}$   | 
+| $10 \\, \\%$ |  $1,7 \\, \mathrm{kW \\, h}$   | 
+| $20 \\, \\%$ |  $3,4 \\, \mathrm{kW \\, h}$   | 
+| $30 \\, \\%$ |  $5,1 \\, \mathrm{kW \\, h}$   | 
+| $50 \\, \\%$ |  $8,5 \\, \mathrm{kW \\, h}$   | 
+| $80 \\, \\%$ |  $13,6 \\, \mathrm{kW \\, h}$   | 
+| $100 \\, \\%$ |  $17 \\, \mathrm{kW \\, h}$   | 
 
 ## 8. Kohle, Erdöl, Erdgas (10 Minuten)
 
@@ -545,29 +545,29 @@ Prinzipiell kann elektrische Energie in ein brennbares Gas oder in eine brennbar
 
 | E-Fuel | Aggregat | benötigte Stoffe | $\eta$ ohne Rückverstromung | $\eta$ mit Rückverstromung  |
 | --- | --- | --- | --- | --- |
-| Wasserstoff | Gas  | Wasser | $\approx 65 \\, \%$  | $\approx 40 \\, \%$  |
-| Methan | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \%$ | $\approx 35 \\, \%$  |
-| Methanol | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \%$ |   |
+| Wasserstoff | Gas  | Wasser | $\approx 65 \\, \\%$  | $\approx 40 \\, \\%$  |
+| Methan | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ | $\approx 35 \\, \\%$  |
+| Methanol | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ |   |
 
 #### Wasserstoff
 
-Um einen Kubikmeter Wasserstoff herzustellen, wird eine Energie von $4,3 \\, \mathrm{kW \\, h}$ bis $4,9 \\, \mathrm{kW \\, h}$ benötigt. Die volumenbezogene Energiedichte (Heizwert) von Wasserstoff beträgt $3 \\, \mathrm{\frac{kW \\, h}{m^3}}$. Daraus ergibt sich ein Wirkungsgrad von $61 \\, \%$ bis $70 \\, \%$ bei der Erzeugung von Wasserstoff im Elektrolysator. Möchte man die im Wasserstoff gespeicherte Energie zu einen späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Wasserstoff rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $34 \\, \%$ bis $44 \\, \%$. 
+Um einen Kubikmeter Wasserstoff herzustellen, wird eine Energie von $4,3 \\, \mathrm{kW \\, h}$ bis $4,9 \\, \mathrm{kW \\, h}$ benötigt. Die volumenbezogene Energiedichte (Heizwert) von Wasserstoff beträgt $3 \\, \mathrm{\frac{kW \\, h}{m^3}}$. Daraus ergibt sich ein Wirkungsgrad von $61 \\, \\%$ bis $70 \\, \\%$ bei der Erzeugung von Wasserstoff im Elektrolysator. Möchte man die im Wasserstoff gespeicherte Energie zu einen späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Wasserstoff rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $34 \\, \\%$ bis $44 \\, \\%$. 
 
 Die Speicherung von Wasserstoff erfolgt üblicherweise in Drucktanks mit bis zu $700 \\, \mathrm{bar}$. Durch die Speicherung im Drucktank erhöht sich die volumenbezogene Energiedichte auf $2,1 \\, \mathrm{\frac{kW \\, h}{L}}$. Dies ist leider noch 4,6 mal mehr Volumen wie beim Diesel. Hinzu kommt, dass der Tank und damit die Lagerung deutlich teuer ist.
 
 #### Methan
 
-Methan ist so wie Wasserstoff ebenfalls ein Gas. Methan hat jedoch den erheblichen Vorteil, dass es zu $100 \\, \%$ in das bestehende Gasnetz eingespeist werden kann. Zur Herstellung wird ein weiterer Prozessschritt benötigt. Aus Wasserstoff und Kohlendioxid ($\mathrm{CO}_2$) wird das Methan hergestellt. 
+Methan ist so wie Wasserstoff ebenfalls ein Gas. Methan hat jedoch den erheblichen Vorteil, dass es zu $100 \\, \\%$ in das bestehende Gasnetz eingespeist werden kann. Zur Herstellung wird ein weiterer Prozessschritt benötigt. Aus Wasserstoff und Kohlendioxid ($\mathrm{CO}_2$) wird das Methan hergestellt. 
 
 Dieser zusätzliche Prozessschritt löst jedoch das Speicherproblem, da unser Gasnetz mit seinen Gasspeichern ein gigantischer Speicher ist. Zwischen $200 \\, \mathrm{TW \\, h}$ bis zu $330 \\, \mathrm{TW \\, h}$ lassen sich im deutschen Gasnetz speichern. Rechnen wir die Menge auf die $84 \\, 669 \\, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger eine Speichermenge von $2 \\, 362 \\, \mathrm{kW \\, h}$ bis $3 \\, 898 \\, \mathrm{kW \\, h}$. Sprich unser Gesamtenergiebedarf von etwa einem Monat.
 
-Zwei Probleme sind jedoch noch zu lösen. Erstens wird für die Herstellung Kohlendioxid ($\mathrm{CO}_2$) benötigt und zweitens  liegt der Wirkungsgrad bei der Erzeugung bei $51 \\, \%$ bis $65 \\, \%$. Möchte man die im Methan gespeicherte Energie zu einen späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Methan rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $30 \\, \%$ bis $38 \\, \%$. 
+Zwei Probleme sind jedoch noch zu lösen. Erstens wird für die Herstellung Kohlendioxid ($\mathrm{CO}_2$) benötigt und zweitens  liegt der Wirkungsgrad bei der Erzeugung bei $51 \\, \\%$ bis $65 \\, \\%$. Möchte man die im Methan gespeicherte Energie zu einen späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Methan rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $30 \\, \\%$ bis $38 \\, \\%$. 
 
 Mit dem fortschreiten der Energiewende und dem immer weiter vorrauschreitenden Ausbau von erneuerbaren Energien, die dazu führen, dass Strom nicht abgenommen werden kann und der Preis zeitweise negativ Werte annimmt und gleichzeitig den konkreten Überlegungen $\mathrm{CO}_2$ zur Deponierung in der Erde zu verpressen, ist dies eine vielversprechende Technologie, um große Mengen an Energien langfristig zu speichern. 
 
 #### Methanol
 
-Eine weitere Möglichkeit ist es aus Wasserstoff Methanol herstellen zu lassen. Bei der Herstellung von Methanol werden Wirkungsgrade von $52 \\, \%$ bis $60 \\, \%$ erreicht.
+Eine weitere Möglichkeit ist es aus Wasserstoff Methanol herstellen zu lassen. Bei der Herstellung von Methanol werden Wirkungsgrade von $52 \\, \\%$ bis $60 \\, \\%$ erreicht.
 
 Methanol ist flüssig und kann in gewöhnlichen Tanks gelagert werden. Gegenüber Benzin hat Methanol einige Nachteile. Methanol ätzt Aluminium und kann daher nur in Motoren verbrannt werden, in denen kein Aluminium verbaut ist. Des Weiteren schmiert Methanol nicht wie Benzin und Diesel. Daher müssten Stoffe in diesen Kraftstoff hinzugefügt werden, damit die Motoren im Betrieb von innen geschmiert werden. Letztlich liegt die Energiedichte von Methanol bei etwa der Hälfte von Benzin. Die Tanks müssten somit bei gleicher Reichweite etwa doppelt so groß ausgelegt werden. Dennoch lässt sich Methanol regenerativ erzeugen, ohne dass fossile Brennstoffe verbrannt werden.   
 
@@ -614,7 +614,7 @@ Der Energietransport mit dem höchsten Leistungsdurchsatz ist die Ölpipeline. D
 
 Ein Tanklastwagen kann etwa $26 \\, 000 \\, \mathrm{L}$ laden. Würde man statt mit einer Pipeline das Öl per Tanklastwagen befördern, dann müsste alle $19 \\, \mathrm{s}$ ein Tanklastwagen abfahren.
 
-Man könnte meinen, dass bei dem Transport in der Öl-Pipeline erhebliche Verluste entstehen, schließlich muss das Öl beheizt werden, damit es durch die Pipeline gepumpt werden kann. Das Öl ist im kalten Zustand zäh und nicht pumpbar. Doch der schiere enorme Leistungsdurchsatz führt dazu, dass selbst die Trans-Alaska-Pipeline, die durch die kalten Gefilden von Alaska führt, einen Verlust durch die benötigte Heizenergie von etwas mehr als einem halben Prozent aufweist. Der Wirkungsgrad dieser Technologie liegt über weite Strecken bei über $99 \\, \%$. Der hohe Wirkungsgrad und der enorme Leistungsdurchfluss führen dazu, dass diese Technologie enorm wirtschaftlich profitabel ist. 
+Man könnte meinen, dass bei dem Transport in der Öl-Pipeline erhebliche Verluste entstehen, schließlich muss das Öl beheizt werden, damit es durch die Pipeline gepumpt werden kann. Das Öl ist im kalten Zustand zäh und nicht pumpbar. Doch der schiere enorme Leistungsdurchsatz führt dazu, dass selbst die Trans-Alaska-Pipeline, die durch die kalten Gefilden von Alaska führt, einen Verlust durch die benötigte Heizenergie von etwas mehr als einem halben Prozent aufweist. Der Wirkungsgrad dieser Technologie liegt über weite Strecken bei über $99 \\, \\%$. Der hohe Wirkungsgrad und der enorme Leistungsdurchfluss führen dazu, dass diese Technologie enorm wirtschaftlich profitabel ist. 
 
 #### Gas-Pipeline
 
@@ -628,7 +628,7 @@ Neben Pipelines spielen Schiffe wie Öl-Tanker eine wesentliche Rolle das Öl an
 
 #### Gas-Tanker (LNG)
 
-Gas-Tanker haben eine weitaus geringer Energie-Kapazität. Die größten Gas-Tanker haben ein Tankvolumen von etwa $250 \\, 000 \\, \mathrm{m^3}$, mit dem etwa $1,45 \\, \mathrm{TW \\, h}$ transportiert werden können. Das ist etwa ein viertel dessen, was ein Öl-Tanker transportieren kann. Zusätzlich verlieren die Tanker etwa $0,1 \\, \%$ bis $0,25 \\, \%$ des Gases jeden Tag durch den sogenannten *Boil-Off-Effekt*. Des Weiteren muss das Gas für den Transport verflüssigt werden und am Zielort wieder in Gas regasifiziert werden. Bei diesen Prozessen gehen etwa $20 \\, \%$ der Energie verloren. Aus diesen Grund sind die Transporte von Gas über den Seeweg besonders umstritten.
+Gas-Tanker haben eine weitaus geringer Energie-Kapazität. Die größten Gas-Tanker haben ein Tankvolumen von etwa $250 \\, 000 \\, \mathrm{m^3}$, mit dem etwa $1,45 \\, \mathrm{TW \\, h}$ transportiert werden können. Das ist etwa ein viertel dessen, was ein Öl-Tanker transportieren kann. Zusätzlich verlieren die Tanker etwa $0,1 \\, \\%$ bis $0,25 \\, \\%$ des Gases jeden Tag durch den sogenannten *Boil-Off-Effekt*. Des Weiteren muss das Gas für den Transport verflüssigt werden und am Zielort wieder in Gas regasifiziert werden. Bei diesen Prozessen gehen etwa $20 \\, \\%$ der Energie verloren. Aus diesen Grund sind die Transporte von Gas über den Seeweg besonders umstritten.
 
 
 ## 3. Volkswirtschaftliche Betrachtung
