@@ -42,9 +42,9 @@ Umgestellt nach der Höhe lautet die Formel:
 
 $$h = \frac{E_\mathrm{pot}}{m \cdot g}$$
 
-Nimmt man ein SuS Gewicht von $`65 \, \mathrm{kg}`$ an, dann errechnet sich eine Höhe wie folgend:
+Nimmt man ein SuS Gewicht von $65 \\, \mathrm{kg}$ an, dann errechnet sich eine Höhe wie folgend:
 
-$$`h = \frac{1 \, \mathrm{kWh}}{65 \, \mathrm{kg} \cdot 9,81 \, \mathrm{\frac{m}{s^2}}}`$$
+$$h = \frac{1 \\, \mathrm{kWh}}{65 \, \mathrm{kg} \cdot 9,81 \, \mathrm{\frac{m}{s^2}}}$$
 
 Umrechnung in Wattsekunden:
 
