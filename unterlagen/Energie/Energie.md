@@ -55,6 +55,7 @@ $$h = \frac{3 \\, 600 \\,  000 \\, \mathrm{W \\, s}}{65 \\, \mathrm{kg} \cdot 9,
 Umformen in SI-Einheiten:
 
 $$h = \frac{3 \\, 600 \\,  000 \\, \mathrm{\frac{kg \\, m^2}{s^3}s}}{65 \\, \mathrm{kg} \cdot 9,81 \\, \mathrm{\frac{m}{s^2}}}$$
+
 Ausgerechnet:
 
 $$h = 5 \\, 646 \\, \mathrm{m}$$
