@@ -41,23 +41,23 @@ Umgestellt nach der Höhe lautet die Formel:
 
 $$h = \frac{E_\mathrm{pot}}{m \cdot g}$$
 
-Nimmt man ein SuS-Gewicht von $65 \, \mathrm{kg}$ an, dann errechnet sich eine Höhe wie folgt:
+Nimmt man ein SuS-Gewicht von $65 \\, \mathrm{kg}$ an, dann errechnet sich eine Höhe wie folgt:
 
-$$h = \frac{1 \, \mathrm{kWh}}{65 \, \mathrm{kg} \cdot 9,81 \, \mathrm{\frac{m}{s^2}}}$$
+$$h = \frac{1 \\, \mathrm{kWh}}{65 \\, \mathrm{kg} \cdot 9,81 \\, \mathrm{\frac{m}{s^2}}}$$
 
 Umrechnung in Wattsekunden:
 
-$$h = \frac{3 \, 600 \, \mathrm{kWs}}{65 \, \mathrm{kg} \cdot 9,81 \, \mathrm{\frac{m}{s^2}}}$$
+$$h = \frac{3 \\, 600 \\, \mathrm{kWs}}{65 \\, \mathrm{kg} \cdot 9,81 \\, \mathrm{\frac{m}{s^2}}}$$
 
-$$h = \frac{3 \, 600 \, 000 \, \mathrm{Ws}}{65 \, \mathrm{kg} \cdot 9,81 \, \mathrm{\frac{m}{s^2}}}$$
+$$h = \frac{3 \\, 600 \\, 000 \\, \mathrm{Ws}}{65 \\, \mathrm{kg} \cdot 9,81 \\, \mathrm{\frac{m}{s^2}}}$$
 
 Umformen in SI-Einheiten:
 
-$$h = \frac{3 \, 600 \, 000 \, \mathrm{\frac{kg \, m^2}{s^3}s}}{65 \, \mathrm{kg} \cdot 9,81 \, \mathrm{\frac{m}{s^2}}}$$
+$$h = \frac{3 \\, 600 \\, 000 \\, \mathrm{\frac{kg \\, m^2}{s^3}s}}{65 \\, \mathrm{kg} \cdot 9,81 \\, \mathrm{\frac{m}{s^2}}}$$
 
 Ausgerechnet:
 
-$$h = 5 \, 646 \, \mathrm{m}$$
+$$h = 5 \\, 646 \\, \mathrm{m}$$
 
 Dies ist eine Höhe, die nur mit sehr viel Training an einem Tag vollbracht werden kann.
 
@@ -73,11 +73,11 @@ Umgestellt nach der Masse lautet die Formel:
 
 $$m  = \frac{E_\mathrm{th}}{c \cdot \Delta T}$$
 
-Mit der Wärmekapazitätskonstante $c = 4,2 \, \mathrm{\frac{kWs}{kg \, K}}$ und einer Kaltwasserausgangstemperatur von $15 \, °C$ und einer angenehmen Duschtemperatur von $37 \, °C$ ergibt sich:
+Mit der Wärmekapazitätskonstante $c = 4,2 \\, \mathrm{\frac{kWs}{kg \\, K}}$ und einer Kaltwasserausgangstemperatur von $15 \\, °C$ und einer angenehmen Duschtemperatur von $37 \\, °C$ ergibt sich:
 
-$$m  = \frac{3 \, 600 \, \mathrm{kWs}}{4,2 \, \mathrm{\frac{kWs}{kg \, K}} \cdot 22 \, °C} \approx 39 \, \mathrm{kg}$$
+$$m  = \frac{3 \\, 600 \\, \mathrm{kWs}}{4,2 \\, \mathrm{\frac{kWs}{kg \\, K}} \cdot 22 \\, °C} \approx 39 \\, \mathrm{kg}$$
 
-Das entspricht etwa $39 \, \mathrm{L}$ Wasser und mit einer Durchlaufmenge von $13 \, \mathrm{\frac{L}{min}}$ kann für eine Kilowattstunde gerade mal drei Minuten lang warm geduscht werden.
+Das entspricht etwa $39 \\, \mathrm{L}$ Wasser und mit einer Durchlaufmenge von $13 \\, \mathrm{\frac{L}{min}}$ kann für eine Kilowattstunde gerade mal drei Minuten lang warm geduscht werden.
 
 Würde der Sportler sein Hometrainer an einen Dynamo anschließen und den erzeugten Strom als regenerativen Strom verkaufen wollen, so würde er einen Stundenlohn erhalten, der weit unter 10 Cent pro Stunde liegt.
 
@@ -92,8 +92,8 @@ Um den Jahresenergiebedarf der Bundesrepublik Deutschland zu ermitteln, können 
 - oder die [Angaben der AG Energiebilanzen e.V.](https://ag-energiebilanzen.de/energieverbrauch-faellt-kraeftig-weiterer-ausbau-der-erneuerbaren/)
 
 Bei der Recherche stellen die SuS schnell fest, dass unterschiedliche Werte angegeben werden:
-- Primärenergieverbrauch 2023: $10 \, 629 \, \mathrm{PJ}$ (Petajoule)
-- Endenergieverbrauch 2023: $8 \, 163 \, \mathrm{PJ}$
+- Primärenergieverbrauch 2023: $10 \\, 629 \\, \mathrm{PJ}$ (Petajoule)
+- Endenergieverbrauch 2023: $8 \\, 163 \\, \mathrm{PJ}$
 
 Diese Begriffe müssen erst geklärt werden, damit verstanden werden kann, wie mit diesen Zahlen umgegangen werden kann.
 
@@ -108,20 +108,20 @@ Der Primärenergieverbrauch ist somit der Energiebedarf, den wir inklusive Umwan
 
 Um den Pro-Kopf-Verbrauch pro Tag zu ermitteln, müssen wir Petajoule in Kilowattstunden umrechnen:
 
-$$1 \, \mathrm{kWh} = 1 \, 000 \, \mathrm{Wh} = 3,6 \cdot 10^6 \, \mathrm{Ws} = 3,6 \cdot 10^6 \, \mathrm{J}$$
+$$1 \\, \mathrm{kWh} = 1 \\, 000 \\, \mathrm{Wh} = 3,6 \cdot 10^6 \\, \mathrm{Ws} = 3,6 \cdot 10^6 \\, \mathrm{J}$$
 
-$$1 \, \mathrm{PJ} = 10^{15} \mathrm{J}$$
+$$1 \\, \mathrm{PJ} = 10^{15} \mathrm{J}$$
 
 Anschließend kann der Jahresenergieverbrauch in den Tagesenergieverbrauch umgerechnet werden:
 
 - 1 Jahr entspricht 365 Tage
 
 Und schließlich durch die Anzahl der Bundesbürger geteilt werden:
- - $84 \, 669 \, 000$ im Jahr 2023
+ - $84 \\, 669 \\, 000$ im Jahr 2023
 
 Mit den gefundenen Werten kann der Pro-Kopf-Verbrauch pro Tag in Kilowattstunden berechnet werden:
-  - Primärenergieverbrauch 2023: $96 \, \mathrm{kWh}$
-  - Endenergieverbrauch 2023: $73 \, \mathrm{kWh}$
+  - Primärenergieverbrauch 2023: $96 \\, \mathrm{kWh}$
+  - Endenergieverbrauch 2023: $73 \\, \mathrm{kWh}$
 
 Man kann sagen, dass wir ein Konsumleben führen, welches der Arbeitskraft von 96 Menschen entspricht.
 
@@ -222,7 +222,7 @@ pie title Flächenbedarf aktuell:
     "Siedlung und Verkehr" : 15
     "Sonstiges" : 5
 ```
-Hierzu ist noch erwähnenswert, dass rund $80 \, \%$ der landwirtschaftlich genutzten Fläche für die Fleischproduktion verwendet wird.
+Hierzu ist noch erwähnenswert, dass rund $80 \\, \\%$ der landwirtschaftlich genutzten Fläche für die Fleischproduktion verwendet wird.
 
 ## 3. Sonne (15 Minuten)
 Anhand der folgenden Karte kann die Sonneneinstrahlung in Deutschland dargestellt werden:
@@ -231,37 +231,37 @@ Anhand der folgenden Karte kann die Sonneneinstrahlung in Deutschland dargestell
 
  > SolarGIS © 2011 GeoModel Solar s.r.o., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
- In Norddeutschland liegt die jährliche Sonneneinstrahlung bei etwa $1 \, 100 \, \mathrm{\frac{kWh}{m^2}}$. Im Sommer ist die Sonneneinstrahlung etwa 5-mal so hoch wie im Winter.
+ In Norddeutschland liegt die jährliche Sonneneinstrahlung bei etwa $1 \\, 100 \\, \mathrm{\frac{kWh}{m^2}}$. Im Sommer ist die Sonneneinstrahlung etwa 5-mal so hoch wie im Winter.
 
-Der Wirkungsgrad von Photovoltaik (Solarzellen) liegt aktuell bei $20 \, \%$ bis $25 \, \%$.
+Der Wirkungsgrad von Photovoltaik (Solarzellen) liegt aktuell bei $20 \\, \\%$ bis $25 \\, \\%$.
 
 Die durchschnittliche tägliche Leistung pro Quadratmeter lässt sich wie folgt berechnen: 
 
-$$\frac{E_\mathrm{el,a}}{A} = \frac{E_\mathrm{el,d}}{A} \cdot \frac{1}{ 365 \, \mathrm{Tage}} \cdot \eta = \frac{1 \, 100 \, \mathrm{\frac{kWh}{m^2}}}{365} \cdot 0,2 = 0,6 \, \mathrm{\frac{kWh}{m^2}}$$
+$$\frac{E_\mathrm{el,a}}{A} = \frac{E_\mathrm{el,d}}{A} \cdot \frac{1}{ 365 \\, \mathrm{Tage}} \cdot \eta = \frac{1 \\, 100 \\, \mathrm{\frac{kWh}{m^2}}}{365} \cdot 0,2 = 0,6 \\, \mathrm{\frac{kWh}{m^2}}$$
 
 Der Kehrwert der Berechnung ist die benötigte Fläche pro Kilowattstunde:
 
-$$\left( \frac{E_\mathrm{el}}{A} \right)^{-1} = \left( 0,6 \, \mathrm{\frac{kWh}{m^2}} \right)^{-1} = \frac{A}{E_\mathrm{el}} \approx 1,7  \, \mathrm{\frac{m^2}{kWh}} $$ 
+$$\left( \frac{E_\mathrm{el}}{A} \right)^{-1} = \left( 0,6 \\, \mathrm{\frac{kWh}{m^2}} \right)^{-1} = \frac{A}{E_\mathrm{el}} \approx 1,7  \\, \mathrm{\frac{m^2}{kWh}} $$ 
 
-Es werden somit etwa $2 \, \mathrm{m^2}$ pro Kilowattstunde benötigt, die durchschnittlich an einem Tag gewonnen werden können, wenn man Aufstellungsabstände mit berücksichtigt.
+Es werden somit etwa $2 \\, \mathrm{m^2}$ pro Kilowattstunde benötigt, die durchschnittlich an einem Tag gewonnen werden können, wenn man Aufstellungsabstände mit berücksichtigt.
 
-Auf alle $84 \, 669 \, 000$ Bundesbürger (2023) hochgerechnet entspricht das einer Fläche von $169 \, 338 \, 000 \, \mathrm{m^2}$ bzw. $16 \, 933,8 \, \mathrm{ha}$ bzw. $169, 338 \, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \, 588  \, \mathrm{km^2}$ etwa $0,047 \, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das einer Fläche von $169 \\, 338 \\, 000 \\, \mathrm{m^2}$ bzw. $16 \\, 933,8 \\, \mathrm{ha}$ bzw. $169, 338 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,047 \\, \\%$ entspricht.
 
 |  Sonnenenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \, \mathrm{kWh}$  | $169 \, \mathrm{km^2}$  | $0,047 \, \%$ |
-| $5 \, \mathrm{kWh}$  | $847 \, \mathrm{km^2}$  | $0,24 \, \%$ |
-| $10 \, \mathrm{kWh}$  | $1 \, 693 \, \mathrm{km^2}$  | $0,47 \, \%$ |
-| $20 \, \mathrm{kWh}$  | $3 \, 387 \, \mathrm{km^2}$  | $0,94 \, \%$ |
-| $30 \, \mathrm{kWh}$  | $5 \, 080 \, \mathrm{km^2}$  | $1,4 \, \%$ |
-| $50 \, \mathrm{kWh}$  | $8 \, 467 \, \mathrm{km^2}$  | $2,4 \, \%$ |
-| $100 \, \mathrm{kWh}$  | $16 \, 934 \, \mathrm{km^2}$  | $4,7 \, \%$ |
+| $1 \\, \mathrm{kWh}$  | $169 \\, \mathrm{km^2}$  | $0,047 \\, \\%$ |
+| $5 \\, \mathrm{kWh}$  | $847 \\, \mathrm{km^2}$  | $0,24 \\, \\%$ |
+| $10 \\, \mathrm{kWh}$  | $1 \\, 693 \\, \mathrm{km^2}$  | $0,47 \\, \\%$ |
+| $20 \\, \mathrm{kWh}$  | $3 \\, 387 \\, \mathrm{km^2}$  | $0,94 \\, \\%$ |
+| $30 \\, \mathrm{kWh}$  | $5 \\, 080 \\, \mathrm{km^2}$  | $1,4 \\, \\%$ |
+| $50 \\, \mathrm{kWh}$  | $8 \\, 467 \\, \mathrm{km^2}$  | $2,4 \\, \\%$ |
+| $100 \\, \mathrm{kWh}$  | $16 \\, 934 \\, \mathrm{km^2}$  | $4,7 \\, \\%$ |
 
-Etwa $1 \, 500  \, \mathrm{km^2}$ Dachfläche stehen in Deutschland zur Verfügung, für die keine neuen Flächen erschlossen werden müssten. So können die Dachflächen sinnvoll genutzt werden. 
+Etwa $1 \\, 500  \\, \mathrm{km^2}$ Dachfläche stehen in Deutschland zur Verfügung, für die keine neuen Flächen erschlossen werden müssten. So können die Dachflächen sinnvoll genutzt werden. 
 
 Auch können Photovoltaikanlagen über landwirtschaftlich genutzten Flächen installiert werden, etwa für den Gemüseanbau und der Viehwirtschaft. Eine solche Nutzung wird [Agri-Photovoltaik](https://www.ise.fraunhofer.de/de/leitthemen/integrierte-photovoltaik/agri-photovoltaik-agri-pv.html) genannt.  
 
-[Photovoltaik in Verkehrswegen](https://www.ise.fraunhofer.de/de/leitthemen/integrierte-photovoltaik/verkehrswege-photovoltaik-ripv.html) ist eine weitere Möglichkeit, Flächen doppelt zu nutzen. So können Straßen und Fußwege überdacht werden. Etwa $5 \, \%$ der Fläche in Deutschland wird als Verkehrsweg genutzt.  
+[Photovoltaik in Verkehrswegen](https://www.ise.fraunhofer.de/de/leitthemen/integrierte-photovoltaik/verkehrswege-photovoltaik-ripv.html) ist eine weitere Möglichkeit, Flächen doppelt zu nutzen. So können Straßen und Fußwege überdacht werden. Etwa $5 \\, \\%$ der Fläche in Deutschland wird als Verkehrsweg genutzt.  
 
 ## 4. Wind (15 Minuten)
 Anhand der folgenden Karte kann die durchschnittliche Windgeschwindigkeit in Deutschland dargestellt werden:
@@ -270,91 +270,91 @@ Anhand der folgenden Karte kann die durchschnittliche Windgeschwindigkeit in Deu
 
  > Deutscher Wetterdienst © DWD 2009, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>
 
-Die durchschnittlichen Windgeschwindigkeiten reichen in Deutschland von $3 \, \mathrm{\frac{m}{s}}$ bis $10 \, \mathrm{\frac{m}{s}}$. Wobei in weiten Teilen eine mittlere Windgeschwindigkeit von $5 \, \mathrm{\frac{m}{s}}$ vorherrscht. An der Küste liegen die Windgeschwindigkeiten am höchsten. Jedoch auch im Mittelgebirge, den Alpen, der Alb und dem Erzgebirge sind sehr hohe durchschnittliche Windgeschwindigkeiten messbar.
+Die durchschnittlichen Windgeschwindigkeiten reichen in Deutschland von $3 \\, \mathrm{\frac{m}{s}}$ bis $10 \\, \mathrm{\frac{m}{s}}$. Wobei in weiten Teilen eine mittlere Windgeschwindigkeit von $5 \\, \mathrm{\frac{m}{s}}$ vorherrscht. An der Küste liegen die Windgeschwindigkeiten am höchsten. Jedoch auch im Mittelgebirge, den Alpen, der Alb und dem Erzgebirge sind sehr hohe durchschnittliche Windgeschwindigkeiten messbar.
 
 Windkraftanlagen ernten die kinetische Energie, die in der Luftbewegung enthalten ist. Die Leistung, die eine Windkraftanlage erzeugen kann, errechnet sich nach
 
 $$P = \frac{1}{2} \cdot \rho \cdot A \cdot v^3 \cdot \eta $$
 
 mit
-- der spezifischen Dichte von Luft $\rho = 1,2 \, \mathrm{\frac{kg}{m^3}}$,
+- der spezifischen Dichte von Luft $\rho = 1,2 \\, \mathrm{\frac{kg}{m^3}}$,
 - der vom Windrad umstrichenen Fläche $A$,
 - der Windgeschwindigkeit $v$
-- und dem Wirkungsgrad der Windkraftanlage $\eta$, welcher bei modernen Windkraftanlagen bei bis zu $50 \, \%$ liegt. 
+- und dem Wirkungsgrad der Windkraftanlage $\eta$, welcher bei modernen Windkraftanlagen bei bis zu $50 \\, \\%$ liegt. 
 
 Aus der Formel kann entnommen werden, dass die folgenden Zusammenhänge gelten:
--  $2 \, \times$ Rotordurchmesser = $4 \, \times$ Leistung
--  $2 \, \times$ Windgeschwindigkeit = $8 \, \times$ Leistung
+-  $2 \\, \times$ Rotordurchmesser = $4 \\, \times$ Leistung
+-  $2 \\, \times$ Windgeschwindigkeit = $8 \\, \times$ Leistung
 
 Zusätzlich ergibt sich aus der Tatsache, dass die Windgeschwindigkeit bodennah niedriger ist als bodenfern:
--  $2 \, \times$ Höhe = $+ 50 \, \%$ Leistung
+-  $2 \\, \times$ Höhe = $+ 50 \\, \\%$ Leistung
 
 Aus diesem Zusammenhang kann in den roten Gebieten die etwa 8-fache Energiemenge je aufgestellter Windkraftanlage geerntet werden, wie im bundesweiten Durchschnitt.
 
 Windkraftanlagen können nicht dicht an dicht aufgestellt werden, da sich die Windkraftanlagen ansonsten gegenseitig den Wind nehmen würden. Im Windschatten einer anderen Windkraftanlage kann nicht mehr die volle Leistung abgegriffen werden.
 
 Aus den gegebenen Windgeschwindigkeiten und der Tatsache, dass Windkraftanlagen zueinander einen Mindestabstand einhalten sollten, kann ein Energieertrag je Quadratmeter ermittelt werden. Die Berechnungen sind hier etwas komplizierter, jedoch können diese beispielsweise im [Abschlussbericht der Flächenverfügbarkeit und Flächenbedarfe für den Ausbau der Windenergie an Land](https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/32_2023_cc_flaechenverfuegbarkeit_und_flaechenbedarfe_fuer_den_ausbau_der_windenergie_an_land_0.pdf) des Umweltbundesamtes nachvollzogen werden. Für Windkraftanlagen an Land und auf dem Meer können die folgenden Richtwerte verwendet werden:
-  - Onshore $16 \, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll.
-  - Offshore $8 \, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll.
+  - Onshore $16 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll.
+  - Offshore $8 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll.
 
-Auf alle $84 \, 669 \, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf an Land von $16 \, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $1 \, 354 \, 704 \, 000 \, \mathrm{m^2}$ bzw. $1 \, 355 \, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \, 588  \, \mathrm{km^2}$ etwa $0,38 \, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf an Land von $16 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $1 \\, 354 \\, 704 \\, 000 \\, \mathrm{m^2}$ bzw. $1 \\, 355 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,38 \\, \\%$ entspricht.
 
 |  Onshore Windenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \, \mathrm{kWh}$  | $1 \, 355 \, \mathrm{km^2}$  | $0,38 \, \%$ |
-| $5 \, \mathrm{kWh}$  | $6 \, 774 \, \mathrm{km^2}$  | $1,9 \, \%$ |
-| $10 \, \mathrm{kWh}$  | $13 \, 547 \, \mathrm{km^2}$  | $3,8 \, \%$ |
-| $20 \, \mathrm{kWh}$  | $27 \, 094 \, \mathrm{km^2}$  | $7,6 \, \%$ |
-| $30 \, \mathrm{kWh}$  | $40 \, 641 \, \mathrm{km^2}$  | $11,4 \, \%$ |
-| $50 \, \mathrm{kWh}$  | $67 \, 735 \, \mathrm{km^2}$  | $19 \, \%$ |
-| $100 \, \mathrm{kWh}$  | $135 \, 470 \, \mathrm{km^2}$  | $38 \, \%$ |
+| $1 \\, \mathrm{kWh}$  | $1 \\, 355 \\, \mathrm{km^2}$  | $0,38 \\, \\%$ |
+| $5 \\, \mathrm{kWh}$  | $6 \\, 774 \\, \mathrm{km^2}$  | $1,9 \\, \\%$ |
+| $10 \\, \mathrm{kWh}$  | $13 \\, 547 \\, \mathrm{km^2}$  | $3,8 \\, \\%$ |
+| $20 \\, \mathrm{kWh}$  | $27 \\, 094 \\, \mathrm{km^2}$  | $7,6 \\, \\%$ |
+| $30 \\, \mathrm{kWh}$  | $40 \\, 641 \\, \mathrm{km^2}$  | $11,4 \\, \\%$ |
+| $50 \\, \mathrm{kWh}$  | $67 \\, 735 \\, \mathrm{km^2}$  | $19 \\, \\%$ |
+| $100 \\, \mathrm{kWh}$  | $135 \\, 470 \\, \mathrm{km^2}$  | $38 \\, \\%$ |
 
 Die errechneten Landflächen scheinen auf den ersten Blick gigantisch zu erscheinen, jedoch muss bedacht werden, dass die Landfläche durch die aufgestellten Windkraftanlagen anderweitig nutzbar ist. So kann zwischen den Windkraftanlagen weiter Landwirtschaft betrieben werden. 
 
-Die durch die Windkraftanlagen versiegelte Fläche ist hingegen vernachlässigbar gering. So werden zwischen $300 \, \mathrm{m^2}$ bis zu $500 \, \mathrm{m^2}$ je Windkraftanlage Landfläche versiegelt. Der Turm selbst hat nur eine Grundfläche von etwa $100 \, \mathrm{m^2}$. Würden wir Windkraftanlagen, wie in der obigen Tabelle dargestellt, bis zu einem maximalen Ertrag von $100 \, \mathrm{kWh}$ pro Tag und Bundesbürger installieren, dann würde hier eine Landfläche von weniger als $0,1 \, \%$ versiegelt werden. 
+Die durch die Windkraftanlagen versiegelte Fläche ist hingegen vernachlässigbar gering. So werden zwischen $300 \\, \mathrm{m^2}$ bis zu $500 \\, \mathrm{m^2}$ je Windkraftanlage Landfläche versiegelt. Der Turm selbst hat nur eine Grundfläche von etwa $100 \\, \mathrm{m^2}$. Würden wir Windkraftanlagen, wie in der obigen Tabelle dargestellt, bis zu einem maximalen Ertrag von $100 \\, \mathrm{kWh}$ pro Tag und Bundesbürger installieren, dann würde hier eine Landfläche von weniger als $0,1 \\, \\%$ versiegelt werden. 
 
-Zum Vergleich: Etwa $5 \%$ der bundesdeutschen Landflächen sind durch Verkehrswege versiegelt. 
+Zum Vergleich: Etwa $5 \\%$ der bundesdeutschen Landflächen sind durch Verkehrswege versiegelt. 
 
 Um das Potenzial im Meer abschätzen zu können, kann geschätzt werden, wie groß das für uns zugängliche Meer ist:
-  - Nordseeküste: $\approx 5000 \, \mathrm{km^2}$
-  - Ostseeküste: $\approx 4000 \, \mathrm{km^2}$
-  - 1/4 Doggerbank: $\approx 4000 \, \mathrm{km^2}$
+  - Nordseeküste: $\approx 5000 \\, \mathrm{km^2}$
+  - Ostseeküste: $\approx 4000 \\, \mathrm{km^2}$
+  - 1/4 Doggerbank: $\approx 4000 \\, \mathrm{km^2}$
 
-Auf alle $84 \, 669 \, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf auf dem Meer von $8 \, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $677 \, 352 \, 000 \, \mathrm{m^2}$ bzw. $677 \, \mathrm{km^2}$, was bei einer verfügbaren Meeresfläche von $13 \, 000  \, \mathrm{km^2}$ etwa $5,2 \, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf auf dem Meer von $8 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $677 \\, 352 \\, 000 \\, \mathrm{m^2}$ bzw. $677 \\, \mathrm{km^2}$, was bei einer verfügbaren Meeresfläche von $13 \\, 000  \\, \mathrm{km^2}$ etwa $5,2 \\, \\%$ entspricht.
 
 |  Offshore ⚓ Windenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \, \mathrm{kWh}$  | $677 \, \mathrm{km^2}$  | $5,2 \, \%$ |
-| $5 \, \mathrm{kWh}$  | $3 \, 385 \, \mathrm{km^2}$  | $26 \, \%$ |
-| $10 \, \mathrm{kWh}$  | $6 \, 770 \, \mathrm{km^2}$  | $52 \, \%$ |
-| $20 \, \mathrm{kWh}$  | $13 \, 540 \, \mathrm{km^2}$  | $104\, \%$ |
+| $1 \\, \mathrm{kWh}$  | $677 \\, \mathrm{km^2}$  | $5,2 \\, \\%$ |
+| $5 \\, \mathrm{kWh}$  | $3 \\, 385 \\, \mathrm{km^2}$  | $26 \\, \\%$ |
+| $10 \\, \mathrm{kWh}$  | $6 \\, 770 \\, \mathrm{km^2}$  | $52 \\, \\%$ |
+| $20 \\, \mathrm{kWh}$  | $13 \\, 540 \\, \mathrm{km^2}$  | $104\\, \\%$ |
 
 
 ## 5. Biomasse (5 Minuten)
 
-Der Wirkungsgrad von Photosynthese beträgt bei gewöhnlichen Energiepflanzen $0,2 \, \%$ bis $0,5 \, \%$.
+Der Wirkungsgrad von Photosynthese beträgt bei gewöhnlichen Energiepflanzen $0,2 \\, \\%$ bis $0,5 \\, \\%$.
 
-Daraus errechnet sich ein landwirtschaftlicher Flächenbedarf von $100 \, \mathrm{m^2}$ (gasförmig) bis $200 \, \mathrm{m^2}$ (flüssig) je gewonnener Kilowattstunde am Tag.
+Daraus errechnet sich ein landwirtschaftlicher Flächenbedarf von $100 \\, \mathrm{m^2}$ (gasförmig) bis $200 \\, \mathrm{m^2}$ (flüssig) je gewonnener Kilowattstunde am Tag.
 
 Holz hat einen noch höheren Flächenbedarf.
 
-Auf alle $84 \, 669 \, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf von durchschnittlich $150 \, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $12 \, 700 \, 000 \, 000 \, \mathrm{m^2}$ bzw. $12 \, 700 \, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \, 588  \, \mathrm{km^2}$ etwa $3,55 \, \%$ entspricht.
+Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf von durchschnittlich $150 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $12 \\, 700 \\, 000 \\, 000 \\, \mathrm{m^2}$ bzw. $12 \\, 700 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $3,55 \\, \\%$ entspricht.
 
 |  Biomasse Energie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
 | ------------- | ------------- | ------------- |
-| $1 \, \mathrm{kWh}$  | $12 \, 700 \, \mathrm{km^2}$  | $3,6 \, \%$ |
-| $5 \, \mathrm{kWh}$  | $63 \, 502 \, \mathrm{km^2}$  | $17,8 \, \%$ |
-| $10 \, \mathrm{kWh}$  | $127 \, 004 \, \mathrm{km^2}$  | $35,5 \, \%$ |
+| $1 \\, \mathrm{kWh}$  | $12 \\, 700 \\, \mathrm{km^2}$  | $3,6 \\, \\%$ |
+| $5 \\, \mathrm{kWh}$  | $63 \\, 502 \\, \mathrm{km^2}$  | $17,8 \\, \\%$ |
+| $10 \\, \mathrm{kWh}$  | $127 \\, 004 \\, \mathrm{km^2}$  | $35,5 \\, \\%$ |
 
 Verglichen mit dem Flächenbedarf von Photovoltaik ist diese Form der regenerativen Energiegewinnung reine Flächenverschwendung.
 
 Jedoch erhält man direkt gespeicherte Energie!
 
-Des Weiteren fallen in der Landwirtschaft landwirtschaftliche Abfälle an, deren Energiegehalt sinnvollerweise geerntet werden sollte. So können etwa $1 \, \mathrm{kWh}$ bis $4 \, \mathrm{kWh}$ auf diese Art und Weise erzeugt werden. 
+Des Weiteren fallen in der Landwirtschaft landwirtschaftliche Abfälle an, deren Energiegehalt sinnvollerweise geerntet werden sollte. So können etwa $1 \\, \mathrm{kWh}$ bis $4 \\, \mathrm{kWh}$ auf diese Art und Weise erzeugt werden. 
 
 
 ## 6. Wasser (5 Minuten)
-Energie aus Wasser in Form von potenzieller Energie lässt sich in der Bundesrepublik nur geringfügig nutzen. Hier ist die Bundesrepublik bereits an der Ausbaugrenze und erzeugt gerade mal $0,7 \, \mathrm{kWh}$ pro Bundesbürger und Tag.
+Energie aus Wasser in Form von potenzieller Energie lässt sich in der Bundesrepublik nur geringfügig nutzen. Hier ist die Bundesrepublik bereits an der Ausbaugrenze und erzeugt gerade mal $0,7 \\, \mathrm{kWh}$ pro Bundesbürger und Tag.
 
 Pumpspeicherkraftwerke spielen jedoch für die Netzstabilität eine wichtige Rolle. Sie fungieren als Energiespeicher und werden bei Bedarf ans Netz genommen.
 
@@ -370,17 +370,17 @@ Luftwärmepumpen entziehen der Luft Wärme und das auch, wenn die Luft draußen 
 
 Da sich die Luft ständig durch Wind und Konvektion austauscht, kann dieser Zyklus ständig wiederholt werden. Allerdings benötigt eine Wärmepumpe elektrische Energie, um betrieben zu werden. Die benötigte Energie liegt jedoch deutlich unter dem Betrag an Wärmeenergie, die durch die Wärmepumpe erzeugt wird. Gemessen wird die Effizienz einer Wärmepumpe mit der Jahresarbeitszahl *JAZ*, die aus dem Verhältnis von genutzter Wärme zu zugeführter elektrischer Energie, gemessen über ein komplettes Jahr, berechnet wird. Diese liegt durchschnittlich bei drei. Aus einer Kilowattstunde elektrischer Energie können 3 Kilowattstunden Wärme erzeugt werden. 
 
-Etwa $17 \, \mathrm{kWh}$ pro Bundesbürger und Tag werden für das Heizen aufgewendet. Diese ließen sich anteilig durch eine Wärmepumpe erzeugen. Würden alle Bundesbürger mit einer Wärmepumpe ihre benötigte Wärmeenergie erzeugen, dann könnten etwa $11 \, \mathrm{kWh}$ pro Bundesbürger und Tag nur durch den Betrieb von Wärmepumpen erzeugt werden. 
+Etwa $17 \\, \mathrm{kWh}$ pro Bundesbürger und Tag werden für das Heizen aufgewendet. Diese ließen sich anteilig durch eine Wärmepumpe erzeugen. Würden alle Bundesbürger mit einer Wärmepumpe ihre benötigte Wärmeenergie erzeugen, dann könnten etwa $11 \\, \mathrm{kWh}$ pro Bundesbürger und Tag nur durch den Betrieb von Wärmepumpen erzeugt werden. 
 
 |  Anteil der Haushalte, die eine Wärmepumpe nutzen  | ersparte Energie durch Wärmepumpen je Bundesbürger pro Tag |
 | ------------- | ------------- | 
-| $5 \, \%$ |  $0,9 \, \mathrm{kWh}$   | 
-| $10 \, \%$ |  $1,7 \, \mathrm{kWh}$   | 
-| $20 \, \%$ |  $3,4 \, \mathrm{kWh}$   | 
-| $30 \, \%$ |  $5,1 \, \mathrm{kWh}$   | 
-| $50 \, \%$ |  $8,5 \, \mathrm{kWh}$   | 
-| $80 \, \%$ |  $13,6 \, \mathrm{kWh}$   | 
-| $100 \, \%$ |  $17 \, \mathrm{kWh}$   | 
+| $5 \\, \\%$ |  $0,9 \\, \mathrm{kWh}$   | 
+| $10 \\, \\%$ |  $1,7 \\, \mathrm{kWh}$   | 
+| $20 \\, \\%$ |  $3,4 \\, \mathrm{kWh}$   | 
+| $30 \\, \\%$ |  $5,1 \\, \mathrm{kWh}$   | 
+| $50 \\, \\%$ |  $8,5 \\, \mathrm{kWh}$   | 
+| $80 \\, \\%$ |  $13,6 \\, \mathrm{kWh}$   | 
+| $100 \\, \\%$ |  $17 \\, \mathrm{kWh}$   | 
 
 ## 8. Kohle, Erdöl, Erdgas (10 Minuten)
 
@@ -399,14 +399,14 @@ In der folgenden Tabelle sind die wichtigsten fossilen Energieträger und deren 
 
 | Energieträger | Energiedichte| | |
 | ------------- | ------------- | ------------- | ------------- | 
-| Rohbraunkohle | $8,5 \, \mathrm{\frac{MJ}{kg}}$ | $2,4 \, \mathrm{\frac{kWh}{kg}}$ |  |
-| Steinkohle | $30 \, \mathrm{\frac{MJ}{kg}}$ | $8,3 \, \mathrm{\frac{kWh}{kg}}$ |  |
+| Rohbraunkohle | $8,5 \\, \mathrm{\frac{MJ}{kg}}$ | $2,4 \\, \mathrm{\frac{kWh}{kg}}$ |  |
+| Steinkohle | $30 \\, \mathrm{\frac{MJ}{kg}}$ | $8,3 \\, \mathrm{\frac{kWh}{kg}}$ |  |
 | | | | |
-| Erdöl |  | $11,8 \, \mathrm{\frac{kWh}{kg}}$ | $10 \, \mathrm{\frac{kWh}{L}}$ |
-| Diesel / Heizöl | $43 \, \mathrm{\frac{MJ}{kg}}$  | $11,9 \, \mathrm{\frac{kWh}{kg}}$ | $9,7 \, \mathrm{\frac{kWh}{L}}$ |
-| Benzin | $41 \, \mathrm{\frac{MJ}{kg}}$ | $11,4 \, \mathrm{\frac{kWh}{kg}}$ | $8,5 \, \mathrm{\frac{kWh}{L}}$ |
+| Erdöl |  | $11,8 \\, \mathrm{\frac{kWh}{kg}}$ | $10 \\, \mathrm{\frac{kWh}{L}}$ |
+| Diesel / Heizöl | $43 \\, \mathrm{\frac{MJ}{kg}}$  | $11,9 \\, \mathrm{\frac{kWh}{kg}}$ | $9,7 \\, \mathrm{\frac{kWh}{L}}$ |
+| Benzin | $41 \\, \mathrm{\frac{MJ}{kg}}$ | $11,4 \\, \mathrm{\frac{kWh}{kg}}$ | $8,5 \\, \mathrm{\frac{kWh}{L}}$ |
 | | | | |
-| Erdgas | $26,8 \, \mathrm{\frac{MJ}{kg}}$ | $7,4 \, \mathrm{\frac{kWh}{kg}}$ |  |
+| Erdgas | $26,8 \\, \mathrm{\frac{MJ}{kg}}$ | $7,4 \\, \mathrm{\frac{kWh}{kg}}$ |  |
 
 Schaut man sich beispielsweise die Energiedichte von Diesel bzw. Heizöl an, dann stecken in einem Liter etwa 10 Kilowattstunden Energie. Das ist das, was ein sportlicher Mensch in der Lage ist, an 10 Tagen zu leisten. Das ist eine enorme Energiedichte und obendrein lässt sich diese noch exzellent transportieren. Neben dem Preis sind dies zwei weitere Eigenschaften von fossilen Energieträgern, die dazu führen, dass die Nachfrage, trotz der bekannten Probleme, die diese Energieträger mit sich bringen, weiterhin sehr hoch ist.
 
@@ -428,8 +428,8 @@ Es muss also zwischen diesen drei unterschiedlichen Definitionen unterschieden w
 
 - strategische Reserve
   - Die Bundesregierung bevorratet etwa für 3 Monate
-  - $25 \, \mathrm{MT}$ Öl
-  - $228 \, \mathrm{TWh}$ Erdgas
+  - $25 \\, \mathrm{MT}$ Öl
+  - $228 \\, \mathrm{TWh}$ Erdgas
   - Kohle ist im Inland förderbar
 - Weltreserve für den weltweiten Bedarf bei gleichbleibender wirtschaftlicher Entwicklung
   - Öl: 50 Jahre
@@ -446,27 +446,27 @@ Unter Kernenergie fällt sowohl die Kernspaltung, also die Atomkraftwerke, als a
 
 ### Atomkraftwerke
 
-Ein Reaktorblock in einem Atomkraftwerk erzeugt im Schnitt etwa $1 \, \mathrm{GW}$ an Leistung. In der Regel besteht ein Atomkraftwerk aus 4 Reaktorblöcken. Wenn wir wissen wollen, wie viel Energie ein Reaktorblock pro Tag und Bundesbürger erzeugt, dann müssen wir die Leistung mal 24 Stunden rechnen und durch die Anzahl der Bundesbürger teilen: 
+Ein Reaktorblock in einem Atomkraftwerk erzeugt im Schnitt etwa $1 \\, \mathrm{GW}$ an Leistung. In der Regel besteht ein Atomkraftwerk aus 4 Reaktorblöcken. Wenn wir wissen wollen, wie viel Energie ein Reaktorblock pro Tag und Bundesbürger erzeugt, dann müssen wir die Leistung mal 24 Stunden rechnen und durch die Anzahl der Bundesbürger teilen: 
 
-$$\frac{1 \, \mathrm{GW} \cdot 24 \, \mathrm{h}}{84 \, 669 \, 000} = 0,28 \, \mathrm{kWh}$$
+$$\frac{1 \\, \mathrm{GW} \cdot 24 \\, \mathrm{h}}{84 \\, 669 \\, 000} = 0,28 \\, \mathrm{kWh}$$
 
 Aus dem Kehrwert des Ergebnisses erhalten wir die Anzahl der Reaktorblöcke, die wir pro Kilowattstunde Energie pro Tag und Bundesbürger benötigen:
 
 |  Kernenergie je Bundesbürger pro Tag  | Anzahl Reaktorblöcke | Anzahl Atomkraftwerke |
 | ------------- | ------------- | ------------- |
-| $1 \, \mathrm{kWh}$  | $3,5$  | $0,8$  |
-| $5 \, \mathrm{kWh}$  | $17,6$  |$4,4$  |
-| $10 \, \mathrm{kWh}$  | $35$  |$8,8$  | 
-| $20 \, \mathrm{kWh}$  | $71$   | $18$ |
-| $30 \, \mathrm{kWh}$  | $106$  | $26$  |
-| $50 \, \mathrm{kWh}$  | $176$   | $44$ |
-| $100 \, \mathrm{kWh}$  | $353$   | $88$ |
+| $1 \\, \mathrm{kWh}$  | $3,5$  | $0,8$  |
+| $5 \\, \mathrm{kWh}$  | $17,6$  |$4,4$  |
+| $10 \\, \mathrm{kWh}$  | $35$  |$8,8$  | 
+| $20 \\, \mathrm{kWh}$  | $71$   | $18$ |
+| $30 \\, \mathrm{kWh}$  | $106$  | $26$  |
+| $50 \\, \mathrm{kWh}$  | $176$   | $44$ |
+| $100 \\, \mathrm{kWh}$  | $353$   | $88$ |
 
 Unabhängig von den Risiken, die mit dem Betrieb von Atomkraftwerken einhergehen, lässt sich eine solche schiere hohe Anzahl an Atomkraftwerken nicht kühlen. Die bislang betriebenen Atomkraftwerke mussten beispielsweise im Sommer 2022 wegen starker Trockenheit und damit fehlendem Flusswasser heruntergefahren werden.
 
 Aber treiben wir den Gedanken einmal ins Extreme. Wenn wir uns dazu entscheiden würden, unsere gesamte benötigte Energie mit Kernenergie zu decken, dann könnten alle anderen Länder zu demselben Schluss kommen. Da wir etwa doppelt so viel Energie benötigen wie der weltweite Durchschnitt, lässt sich die Anzahl der benötigten Reaktorblöcke grob abschätzen:
 
-$$0,5 \cdot \frac{353}{84 \, 669 \, 000} \cdot 8,1 \cdot 10^9 = 16 \, 885$$
+$$0,5 \cdot \frac{353}{84 \\, 669 \\, 000} \cdot 8,1 \cdot 10^9 = 16 \\, 885$$
 
 Seit etwa 70 Jahren betreiben wir rund 500 Reaktorblöcke weltweit. Aus der [Liste von Unfällen in kerntechnischen Anlagen](https://de.wikipedia.org/wiki/Liste_von_Unf%C3%A4llen_in_kerntechnischen_Anlagen) zählen wir 35 Unfälle der Stufe 4 oder höher. Dies sind Unfälle, bei denen es zu erheblicher Kontamination und damit zu Umwelt- und Gesundheitsschäden gekommen ist. Die beiden bekanntesten Unfälle sind die beiden Super-GAU-Unfälle [Nuklearkatastrophe von Tschernobyl](https://de.wikipedia.org/wiki/Nuklearkatastrophe_von_Tschernobyl) und [Nuklearkatastrophe von Fukushima](https://de.wikipedia.org/wiki/Nuklearkatastrophe_von_Fukushima).
 
@@ -506,17 +506,17 @@ Die wohl bekannteste und am weitesten verbreitete Batterie ist der Lithium-Ionen
 
 | Energiespeicher | massenbezogene Energiedichte | volumenbezogene Energiedichte |
 | ---------- | ---------- | ---------- |
-| Li-Ion | $0,25 \, \mathrm{\frac{kWh}{kg}}$ | $0,5 \, \mathrm{\frac{kWh}{L}}$ |
-| Diesel | $11,9 \, \mathrm{\frac{kWh}{kg}}$ | $9,7 \, \mathrm{\frac{kWh}{L}}$ |
+| Li-Ion | $0,25 \\, \mathrm{\frac{kWh}{kg}}$ | $0,5 \\, \mathrm{\frac{kWh}{L}}$ |
+| Diesel | $11,9 \\, \mathrm{\frac{kWh}{kg}}$ | $9,7 \\, \mathrm{\frac{kWh}{L}}$ |
 
-Beispiel ist hier der Tesla Model-S Akkumulator mit $85 \, \mathrm{kWh}$ und einem Gewicht von $750 \, \mathrm{kg}$. Dieser kommt sogar nur auf eine Energiedichte von $0,11 \, \mathrm{\frac{kWh}{kg}}$.
+Beispiel ist hier der Tesla Model-S Akkumulator mit $85 \\, \mathrm{kWh}$ und einem Gewicht von $750 \\, \mathrm{kg}$. Dieser kommt sogar nur auf eine Energiedichte von $0,11 \\, \mathrm{\frac{kWh}{kg}}$.
 
 Weitere Probleme mit elektrischen Speichern sind die folgenden:
 - Im Fehlerfall kann es zu einer explosionsartigen Energiefreisetzung kommen.
 - Der Abbau von Lithium ist nicht unproblematisch. Auch hier sind massive Eingriffe in die Natur nötig.
 - Die Lithiumvorräte sind endlich.
 - Metallionen sind im Hausmüll und im Grundwasser problematisch. 
-- Die Kosten für die Bereitstellung von $1 \, \mathrm{kWh}$ Speicher liegen noch bei etwa 50€. 
+- Die Kosten für die Bereitstellung von $1 \\, \mathrm{kWh}$ Speicher liegen noch bei etwa 50€. 
 
 Dennoch spielen Batteriespeicher eine immer größere Rolle in unserem Stromnetz. Dies liegt daran, dass Batteriespeicher sich hervorragend für die Bereitstellung von Regelenergie nutzen lassen. Regelenergie dient dem Stromnetz zur Stabilisierung des Netzes.
 
@@ -524,7 +524,7 @@ Betrachtet man die Kosten und die Energiedichte von Batterien, dann ist es höch
 
 ### Pumpspeicherkraftwerke
 
-Aktuell können in der Bundesrepublik etwa $0,04 \, \mathrm{TWh}$ an Energie in Pumpspeicherkraftwerken gespeichert werden. In Kilowattstunden umgerechnet sind das $40 \, 000\, 000 \, \mathrm{kWh}$. Rechnen wir die Menge auf die $84 \, 669 \, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger einer Speichermenge von $0,47 \, \mathrm{kWh}$. Das entspricht gerade mal einem Zweihundertstel unseres Tagesbedarfs. 
+Aktuell können in der Bundesrepublik etwa $0,04 \\, \mathrm{TWh}$ an Energie in Pumpspeicherkraftwerken gespeichert werden. In Kilowattstunden umgerechnet sind das $40 \\, 000\\, 000 \\, \mathrm{kWh}$. Rechnen wir die Menge auf die $84 \\, 669 \\, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger einer Speichermenge von $0,47 \\, \mathrm{kWh}$. Das entspricht gerade mal einem Zweihundertstel unseres Tagesbedarfs. 
 
 Nennenswert ausbauen lassen sich die Kapazitäten nicht. Auch wenn in allen erdenklichen Gegenden ein Stausee errichtet werden würde, kommen wir nicht auf einen nennenswerten Speicher, der unseren Energiebedarf über mehrere Wochen oder gar Monate sichern könnte. Selbst wenn man die Topologie in Österreich, Schweden und Norwegen nutzen würde und hier massenhaft Pumpspeicherkraftwerke errichten würde, dann würden wir gerade mal ein paar Tage unseres immensen Energiebedarfs decken können.
 
@@ -544,29 +544,29 @@ Prinzipiell kann elektrische Energie in ein brennbares Gas oder in eine brennbar
 
 | E-Fuel | Aggregat | benötigte Stoffe | $\eta$ ohne Rückverstromung | $\eta$ mit Rückverstromung  |
 | --- | --- | --- | --- | --- |
-| Wasserstoff | Gas  | Wasser | $\approx 65 \, \%$  | $\approx 40 \, \%$  |
-| Methan | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \, \%$ | $\approx 35 \, \%$  |
-| Methanol | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \, \%$ |   |
+| Wasserstoff | Gas  | Wasser | $\approx 65 \\, \\%$  | $\approx 40 \\, \\%$  |
+| Methan | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ | $\approx 35 \\, \\%$  |
+| Methanol | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ |   |
 
 #### Wasserstoff
 
-Um einen Kubikmeter Wasserstoff herzustellen, wird eine Energie von $4,3 \, \mathrm{kWh}$ bis $4,9 \, \mathrm{kWh}$ benötigt. Die volumenbezogene Energiedichte (Heizwert) von Wasserstoff beträgt $3 \, \mathrm{\frac{kWh}{m^3}}$. Daraus ergibt sich ein Wirkungsgrad von $61 \, \%$ bis $70 \, \%$ bei der Erzeugung von Wasserstoff im Elektrolysator. Möchte man die im Wasserstoff gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Wasserstoff rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $34 \, \%$ bis $44 \, \%$. 
+Um einen Kubikmeter Wasserstoff herzustellen, wird eine Energie von $4,3 \\, \mathrm{kWh}$ bis $4,9 \\, \mathrm{kWh}$ benötigt. Die volumenbezogene Energiedichte (Heizwert) von Wasserstoff beträgt $3 \\, \mathrm{\frac{kWh}{m^3}}$. Daraus ergibt sich ein Wirkungsgrad von $61 \\, \\%$ bis $70 \\, \\%$ bei der Erzeugung von Wasserstoff im Elektrolysator. Möchte man die im Wasserstoff gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Wasserstoff rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $34 \\, \\%$ bis $44 \\, \\%$. 
 
-Die Speicherung von Wasserstoff erfolgt üblicherweise in Drucktanks mit bis zu $700 \, \mathrm{bar}$. Durch die Speicherung im Drucktank erhöht sich die volumenbezogene Energiedichte auf $2,1 \, \mathrm{\frac{kWh}{L}}$. Dies ist leider noch 4,6-mal mehr Volumen als beim Diesel. Hinzu kommt, dass der Tank und damit die Lagerung deutlich teurer ist.
+Die Speicherung von Wasserstoff erfolgt üblicherweise in Drucktanks mit bis zu $700 \\, \mathrm{bar}$. Durch die Speicherung im Drucktank erhöht sich die volumenbezogene Energiedichte auf $2,1 \\, \mathrm{\frac{kWh}{L}}$. Dies ist leider noch 4,6-mal mehr Volumen als beim Diesel. Hinzu kommt, dass der Tank und damit die Lagerung deutlich teurer ist.
 
 #### Methan
 
-Methan ist, so wie Wasserstoff, ebenfalls ein Gas. Methan hat jedoch den erheblichen Vorteil, dass es zu $100 \, \%$ in das bestehende Gasnetz eingespeist werden kann. Zur Herstellung wird ein weiterer Prozessschritt benötigt. Aus Wasserstoff und Kohlendioxid ($\mathrm{CO}_2$) wird das Methan hergestellt. 
+Methan ist, so wie Wasserstoff, ebenfalls ein Gas. Methan hat jedoch den erheblichen Vorteil, dass es zu $100 \\, \\%$ in das bestehende Gasnetz eingespeist werden kann. Zur Herstellung wird ein weiterer Prozessschritt benötigt. Aus Wasserstoff und Kohlendioxid ($\mathrm{CO}_2$) wird das Methan hergestellt. 
 
-Dieser zusätzliche Prozessschritt löst jedoch das Speicherproblem, da unser Gasnetz mit seinen Gasspeichern ein gigantischer Speicher ist. Zwischen $200 \, \mathrm{TWh}$ bis zu $330 \, \mathrm{TWh}$ lassen sich im deutschen Gasnetz speichern. Rechnen wir die Menge auf die $84 \, 669 \, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger einer Speichermenge von $2 \, 362 \, \mathrm{kWh}$ bis $3 \, 898 \, \mathrm{kWh}$. Sprich unser Gesamtenergiebedarf von etwa einem Monat.
+Dieser zusätzliche Prozessschritt löst jedoch das Speicherproblem, da unser Gasnetz mit seinen Gasspeichern ein gigantischer Speicher ist. Zwischen $200 \\, \mathrm{TWh}$ bis zu $330 \\, \mathrm{TWh}$ lassen sich im deutschen Gasnetz speichern. Rechnen wir die Menge auf die $84 \\, 669 \\, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger einer Speichermenge von $2 \\, 362 \\, \mathrm{kWh}$ bis $3 \\, 898 \\, \mathrm{kWh}$. Sprich unser Gesamtenergiebedarf von etwa einem Monat.
 
-Zwei Probleme sind jedoch noch zu lösen. Erstens wird für die Herstellung Kohlendioxid ($\mathrm{CO}_2$) benötigt und zweitens liegt der Wirkungsgrad bei der Erzeugung bei $51 \, \%$ bis $65 \, \%$. Möchte man die im Methan gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem das Methan rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $30 \, \%$ bis $38 \, \%$. 
+Zwei Probleme sind jedoch noch zu lösen. Erstens wird für die Herstellung Kohlendioxid ($\mathrm{CO}_2$) benötigt und zweitens liegt der Wirkungsgrad bei der Erzeugung bei $51 \\, \\%$ bis $65 \\, \\%$. Möchte man die im Methan gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem das Methan rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $30 \\, \\%$ bis $38 \\, \\%$. 
 
 Mit dem Fortschreiten der Energiewende und dem immer weiter voranschreitenden Ausbau von erneuerbaren Energien, die dazu führen, dass Strom nicht abgenommen werden kann und der Preis zeitweise negative Werte annimmt und gleichzeitig den konkreten Überlegungen $\mathrm{CO}_2$ zur Deponierung in der Erde zu verpressen, ist dies eine vielversprechende Technologie, um große Mengen an Energien langfristig zu speichern. 
 
 #### Methanol
 
-Eine weitere Möglichkeit ist es, aus Wasserstoff Methanol herstellen zu lassen. Bei der Herstellung von Methanol werden Wirkungsgrade von $52 \, \%$ bis $60 \, \%$ erreicht.
+Eine weitere Möglichkeit ist es, aus Wasserstoff Methanol herstellen zu lassen. Bei der Herstellung von Methanol werden Wirkungsgrade von $52 \\, \\%$ bis $60 \\, \\%$ erreicht.
 
 Methanol ist flüssig und kann in gewöhnlichen Tanks gelagert werden. Gegenüber Benzin hat Methanol einige Nachteile. Methanol ätzt Aluminium und kann daher nur in Motoren verbrannt werden, in denen kein Aluminium verbaut ist. Des Weiteren schmiert Methanol nicht wie Benzin und Diesel. Daher müssten Stoffe in diesen Kraftstoff hinzugefügt werden, damit die Motoren im Betrieb von innen geschmiert werden. Letztlich liegt die Energiedichte von Methanol bei etwa der Hälfte von Benzin. Die Tanks müssten somit bei gleicher Reichweite etwa doppelt so groß ausgelegt werden. Dennoch lässt sich Methanol regenerativ erzeugen, ohne dass fossile Brennstoffe verbrannt werden.   
 
@@ -594,10 +594,10 @@ Vergleicht man beide Technologien, dann ergibt sich das folgende Bild:
 
 |Technologie|Distanz|primäre Verluste|Übertragungsort|
 |---|---|---|---|
-|Wechselstrom|$1 \, 000 \, \mathrm{km}$|Übertragung|oberirdisch|
-|Gleichstrom (HGÜ)|$5 \, 000 \, \mathrm{km}$|Wandlung|auch unterirdisch|
+|Wechselstrom|$1 \\, 000 \\, \mathrm{km}$|Übertragung|oberirdisch|
+|Gleichstrom (HGÜ)|$5 \\, 000 \\, \mathrm{km}$|Wandlung|auch unterirdisch|
 
-Je nach Ausbau einer solchen Hochspannungsübertragung können zwischen $0,5 \, \mathrm{GW}$ und etwa $6 \, \mathrm{GW}$ übertragen werden. Damit lassen sich aktuell zwischen $250 \, 000$ und $3 \, 000 \, 000$ Personen mit ausreichend elektrischer Energie versorgen.
+Je nach Ausbau einer solchen Hochspannungsübertragung können zwischen $0,5 \\, \mathrm{GW}$ und etwa $6 \\, \mathrm{GW}$ übertragen werden. Damit lassen sich aktuell zwischen $250 \\, 000$ und $3 \\, 000 \\, 000$ Personen mit ausreichend elektrischer Energie versorgen.
 
 Auch wenn mit der HGÜ große Distanzen mit geringen Verlusten überbrückt werden können, ist die Übertragung von elektrischem Strom auf große Distanzen nicht wirtschaftlich. Die Kosten für die Installation einer Stromautobahn sind so hoch, dass diese nicht mit den Einnahmen, die durch den Transport des Stromes erwirtschaftet werden, gedeckt werden können. Anders formuliert: Die Zinsen der Investitionskosten liegen über den Erträgen der Einnahmen. Das ist der Grund, weshalb keine derartigen Investitionen von privatwirtschaftlichen Netzbetreibern ohne staatliche Zuschüsse getätigt werden. Unsere elektrischen Netze sind Infrastrukturen, die wir uns als Gesellschaft leisten müssen, sie lassen sich nicht wirtschaftlich abbilden.
 
@@ -609,25 +609,25 @@ Neben dem elektrischen Energietransport wollen wir uns hier auch noch mit dem En
 
 #### Öl-Pipeline
 
-Der Energietransport mit dem höchsten Leistungsdurchsatz ist die Ölpipeline. Die Trans-Alaska-Pipeline hat beispielsweise einen Öldurchfluss von $1 \, 400 \, \mathrm{\frac{L}{s}}$, was einem Leistungsdurchfluss von $142 \, \mathrm{GW}$ entspricht. Zum Vergleich: Eine Hochspannungsleitung hat einen Leistungsdurchfluss von $6 \, \mathrm{GW}$, das ist ein über den Faktor 20 höherer Leistungsdurchfluss. 
+Der Energietransport mit dem höchsten Leistungsdurchsatz ist die Ölpipeline. Die Trans-Alaska-Pipeline hat beispielsweise einen Öldurchfluss von $1 \\, 400 \\, \mathrm{\frac{L}{s}}$, was einem Leistungsdurchfluss von $142 \\, \mathrm{GW}$ entspricht. Zum Vergleich: Eine Hochspannungsleitung hat einen Leistungsdurchfluss von $6 \\, \mathrm{GW}$, das ist ein über den Faktor 20 höherer Leistungsdurchfluss. 
 
-Ein Tanklastwagen kann etwa $26 \, 000 \, \mathrm{L}$ laden. Würde man statt mit einer Pipeline das Öl per Tanklastwagen befördern, dann müsste alle $19 \, \mathrm{s}$ ein Tanklastwagen abfahren.
+Ein Tanklastwagen kann etwa $26 \\, 000 \\, \mathrm{L}$ laden. Würde man statt mit einer Pipeline das Öl per Tanklastwagen befördern, dann müsste alle $19 \\, \mathrm{s}$ ein Tanklastwagen abfahren.
 
-Man könnte meinen, dass bei dem Transport in der Öl-Pipeline erhebliche Verluste entstehen, schließlich muss das Öl beheizt werden, damit es durch die Pipeline gepumpt werden kann. Das Öl ist im kalten Zustand zäh und nicht pumpbar. Doch der schiere enorme Leistungsdurchsatz führt dazu, dass selbst die Trans-Alaska-Pipeline, die durch die kalten Gefilde von Alaska führt, einen Verlust durch die benötigte Heizenergie von etwas mehr als einem halben Prozent aufweist. Der Wirkungsgrad dieser Technologie liegt über weite Strecken bei über $99 \, \%$. Der hohe Wirkungsgrad und der enorme Leistungsdurchfluss führen dazu, dass diese Technologie enorm wirtschaftlich profitabel ist. 
+Man könnte meinen, dass bei dem Transport in der Öl-Pipeline erhebliche Verluste entstehen, schließlich muss das Öl beheizt werden, damit es durch die Pipeline gepumpt werden kann. Das Öl ist im kalten Zustand zäh und nicht pumpbar. Doch der schiere enorme Leistungsdurchsatz führt dazu, dass selbst die Trans-Alaska-Pipeline, die durch die kalten Gefilde von Alaska führt, einen Verlust durch die benötigte Heizenergie von etwas mehr als einem halben Prozent aufweist. Der Wirkungsgrad dieser Technologie liegt über weite Strecken bei über $99 \\, \\%$. Der hohe Wirkungsgrad und der enorme Leistungsdurchfluss führen dazu, dass diese Technologie enorm wirtschaftlich profitabel ist. 
 
 #### Gas-Pipeline
 
-Gas-Pipelines haben einen etwa halb so großen Leistungsdurchfluss. Nordstream 1 und 2 leisteten eine Erdgas-Förderrate von je $1 \, 800 \, \mathrm{\frac{m^3}{s}}$, was einem Leistungsdurchfluss von etwa je $66 \, \mathrm{GW}$ entspricht. Zusammen ist das mehr als wir aktuell in der gesamten Bundesrepublik an Erdgas verbrauchen. 
+Gas-Pipelines haben einen etwa halb so großen Leistungsdurchfluss. Nordstream 1 und 2 leisteten eine Erdgas-Förderrate von je $1 \\, 800 \\, \mathrm{\frac{m^3}{s}}$, was einem Leistungsdurchfluss von etwa je $66 \\, \mathrm{GW}$ entspricht. Zusammen ist das mehr als wir aktuell in der gesamten Bundesrepublik an Erdgas verbrauchen. 
 
 Gas-Pipelines können für den Transport von synthetisch hergestelltem Methan verwendet werden. Erdgas besteht im Wesentlichen aus Methan und daher können in den Pipelines die Gase gemischt und gleichzeitig verteilt werden.
 
 #### Öl-Tanker
 
-Neben Pipelines spielen Schiffe wie Öl-Tanker eine wesentliche Rolle, das Öl an die entlegensten Orte der Welt zu befördern. Einer der größten Öl-Tanker hat eine Kapazität von $500 \, 000 \, \mathrm{t}$, was einer geladenen Energie von $5,9 \, \mathrm{TWh}$ entspricht. Teilen wir diese Menge an Energie wieder durch die Anzahl der $84 \, 669 \, 000$ Bundesbürger, dann erhalten wir die pro Kopf Kapazität von etwa $70 \, \mathrm{kWh}$. Das heißt, dass ein Tanker nicht einmal den Tagesbedarf der Bundesrepublik an Primärenergie decken kann. Wenn man sich vor Augen führt, wie groß solch ein Tanker ist, dann bekommt man ein Gefühl dafür, wie enorm unser Energiehunger ist. Um den Öl-Tanker nach Nahost in die Golfstaaten zu bringen und wieder beladen zurückzuführen, ist der Öl-Tanker etwa einen Monat unterwegs.
+Neben Pipelines spielen Schiffe wie Öl-Tanker eine wesentliche Rolle, das Öl an die entlegensten Orte der Welt zu befördern. Einer der größten Öl-Tanker hat eine Kapazität von $500 \\, 000 \\, \mathrm{t}$, was einer geladenen Energie von $5,9 \\, \mathrm{TWh}$ entspricht. Teilen wir diese Menge an Energie wieder durch die Anzahl der $84 \\, 669 \\, 000$ Bundesbürger, dann erhalten wir die pro Kopf Kapazität von etwa $70 \\, \mathrm{kWh}$. Das heißt, dass ein Tanker nicht einmal den Tagesbedarf der Bundesrepublik an Primärenergie decken kann. Wenn man sich vor Augen führt, wie groß solch ein Tanker ist, dann bekommt man ein Gefühl dafür, wie enorm unser Energiehunger ist. Um den Öl-Tanker nach Nahost in die Golfstaaten zu bringen und wieder beladen zurückzuführen, ist der Öl-Tanker etwa einen Monat unterwegs.
 
 #### Gas-Tanker (LNG)
 
-Gas-Tanker haben eine weitaus geringere Energie-Kapazität. Die größten Gas-Tanker haben ein Tankvolumen von etwa $250 \, 000 \, \mathrm{m^3}$, mit dem etwa $1,45 \, \mathrm{TWh}$ transportiert werden können. Das ist etwa ein Viertel dessen, was ein Öl-Tanker transportieren kann. Zusätzlich verlieren die Tanker etwa $0,1 \, \%$ bis $0,25 \, \%$ des Gases jeden Tag durch den sogenannten *Boil-Off-Effekt*. Des Weiteren muss das Gas für den Transport verflüssigt werden und am Zielort wieder in Gas regasifiziert werden. Bei diesen Prozessen gehen etwa $20 \, \%$ der Energie verloren. Aus diesem Grund sind die Transporte von Gas über den Seeweg besonders umstritten.
+Gas-Tanker haben eine weitaus geringere Energie-Kapazität. Die größten Gas-Tanker haben ein Tankvolumen von etwa $250 \\, 000 \\, \mathrm{m^3}$, mit dem etwa $1,45 \\, \mathrm{TWh}$ transportiert werden können. Das ist etwa ein Viertel dessen, was ein Öl-Tanker transportieren kann. Zusätzlich verlieren die Tanker etwa $0,1 \\, \\%$ bis $0,25 \\, \\%$ des Gases jeden Tag durch den sogenannten *Boil-Off-Effekt*. Des Weiteren muss das Gas für den Transport verflüssigt werden und am Zielort wieder in Gas regasifiziert werden. Bei diesen Prozessen gehen etwa $20 \\, \\%$ der Energie verloren. Aus diesem Grund sind die Transporte von Gas über den Seeweg besonders umstritten.
 
 
 ## 3. Volkswirtschaftliche Betrachtung
@@ -638,10 +638,10 @@ Energie im Inland produzieren oder aus der Außenwirtschaft heraus beschaffen? D
 Um die Dimensionen des Handelsvolumens zu ermitteln, kann die 
 [Nettoeinfuhr der fossilen Energieträger](https://ag-energiebilanzen.de/wp-content/uploads/2023/11/awt_2023_d.pdf) und die 
 [Importpreise für fossile Energieträger](https://um.baden-wuerttemberg.de/fileadmin/redaktion/m-um/intern/Dateien/Dokumente/5_Energie/Versorgungssicherheit/Energiepreise/240705-Energiepreisbericht-2023.pdf) 
-für das Jahr 2023 ermittelt werden und daraus der Importgesamtwert für fossile Energieträger errechnet werden. Die Preise für Steinkohle, Mineralöle und Erdgas liegen zwischen 3 Cent je Kilowattstunde und 5 Cent je Kilowattstunde. Im Jahr 2023 wurden insgesamt $2 \, 000 \, \mathrm{TWh}$ fossile Energie importiert. Bei einem durchschnittlichen Preis von 4 Cent je Kilowattstunde errechnet sich ein Importwert von 80 Mrd. €.
+für das Jahr 2023 ermittelt werden und daraus der Importgesamtwert für fossile Energieträger errechnet werden. Die Preise für Steinkohle, Mineralöle und Erdgas liegen zwischen 3 Cent je Kilowattstunde und 5 Cent je Kilowattstunde. Im Jahr 2023 wurden insgesamt $2 \\, 000 \\, \mathrm{TWh}$ fossile Energie importiert. Bei einem durchschnittlichen Preis von 4 Cent je Kilowattstunde errechnet sich ein Importwert von 80 Mrd. €.
 
 Laut [Statista wurden fossile Importwerte](https://de.statista.com/statistik/daten/studie/151081/umfrage/importe-von-erdgas-und-rohoel-nach-deutschland/#:~:text=Die%20Statistik%20zeigt%20den%20Wert,auf%2024%2C8%20Milliarden%20Euro.)
-für Mineralöle von 42,9 Mrd. € und für Erdgas 24,8 Mrd. € aufgewendet. Für Steinkohle liegt die Statistik nicht offen, lässt sich jedoch aus einem Preis von 3 Cent je Kilowattstunde und einer Nettoeinfuhr von  $875 \, \mathrm{PJ}$ zu 7,5 Mrd. € errechnen. In Summe ergibt das einen Importwert von 75 Mrd. €. Wir liegen mit unserer Ermittlung aus Nettoeinfuhr und Importpreisen sehr nah am offiziellen Importwert.
+für Mineralöle von 42,9 Mrd. € und für Erdgas 24,8 Mrd. € aufgewendet. Für Steinkohle liegt die Statistik nicht offen, lässt sich jedoch aus einem Preis von 3 Cent je Kilowattstunde und einer Nettoeinfuhr von  $875 \\, \mathrm{PJ}$ zu 7,5 Mrd. € errechnen. In Summe ergibt das einen Importwert von 75 Mrd. €. Wir liegen mit unserer Ermittlung aus Nettoeinfuhr und Importpreisen sehr nah am offiziellen Importwert.
 
 Im Jahr 2022 lag der offizielle Importwert für fossile Energieträger noch bei über 130 Mrd. €. Diese Preisschwankung zeigt, wie außenpolitische Spannungen die Preise dramatisch beeinflussen können. Dies stellt für energieintensive Industrien ein erhebliches Risiko dar und gefährdet den Wirtschaftsstandort Deutschland.
 
