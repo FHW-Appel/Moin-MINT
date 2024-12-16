@@ -1,6 +1,10 @@
-Dieser Unterrichtsentwurf ist geeignet für die **Stufe 10 bis 12** und besteht aus drei Einheiten, die jeweils 90 Minuten dauern. Ziel ist es, den Schülerinnen und Schülern (SuS) ein fundiertes Verständnis von Energie, ihren Quellen, ihrem Verbrauch und den Herausforderungen bei Transport und Speicherung zu vermitteln.
+Dieser Unterrichtsentwurf ist geeignet für die **Stufe 10 bis 12** und besteht aus drei Einheiten. Ziel ist es, den Schülerinnen und Schülern (SuS) ein fundiertes Verständnis von Energie, ihren Quellen, ihrem Verbrauch und den Herausforderungen bei Transport und Speicherung zu vermitteln.
 
-Ursprünglich war der folgende Text als Unterrichtsentwurf geplant. Beim Verfassen des Textes ist jedoch schnell aufgefallen, dass viele Berechnungen und Fakten nötig sind. Daraus entstand der Anspruch, der Leserin bzw. dem Leser diese Berechnungen und Fakten innerhalb des Textes aufzuarbeiten. Daher eignet sich dieser Text auch als Nachschlagewerk für Lehrkräfte. Zwischen den vielen Berechnungen und Informationen werden Vorschläge für die Einbindung der Inhalte in den Unterricht dargeboten. Die Lehrkräfte können sich dieser Vorschläge annehmen, diese umändern oder nur einen Teil der Inhalte vermitteln. Der Umfang der Inhalte ist sehr groß. Dies war initial nicht beabsichtigt, dennoch hat dies die ernsthafte Auseinandersetzung mit dem Thema erfordert. Ich wünsche Ihnen viel Freude bei der Lektüre, mir hat das Verfassen große Freude bereitet.
+Ursprünglich war der folgende Text als reiner Unterrichtsentwurf geplant. Beim Verfassen des Textes ist jedoch schnell aufgefallen, dass viele Berechnungen und Fakten nötig sind. Daraus entstand der Anspruch, der Leserin bzw. dem Leser diese Berechnungen und Fakten innerhalb des Textes aufzuarbeiten. Daher eignet sich dieser Text auch als Nachschlagewerk für Lehrkräfte. Zwischen den vielen Berechnungen und Informationen werden Vorschläge für die Einbindung der Inhalte in den Unterricht dargeboten. 
+> [!TIP] Einbindung der SuS
+> Die Einbindung der Lehrinhalte wird grün hervorgehoben.
+
+Die Lehrkräfte können sich dieser Vorschläge annehmen, diese umändern oder nur einen Teil der Inhalte vermitteln. Der Umfang der Inhalte ist sehr groß. Dies war initial nicht beabsichtigt, dennoch hat dies die ernsthafte Auseinandersetzung mit dem Thema erfordert. Ich wünsche Ihnen viel Freude bei der Lektüre, mir hat das Verfassen große Freude bereitet.
 
 |Nr.| Einheit |Inhalte|
 |---|---|---|
@@ -18,22 +22,39 @@ Ursprünglich war der folgende Text als Unterrichtsentwurf geplant. Beim Verfass
 - Verständnis des aktuellen Energiemixes in Deutschland.
 - Einführung in Primär-, Sekundär- und Endenergiebedarf.
 
-## 1. Energie und die Einheit Kilowattstunde (kWh) (5 Minuten)
-Die Unterrichtseinheit beginnt mit der Frage: Was ist Energie? 
+## 1. Energie und die Einheit Kilowattstunde (kW h) (5 Minuten)
+> [!TIP] Frage an die SuS
+> Was ist Energie? 
 
 Eine mögliche Antwort lautet: Energie ist die Fähigkeit, Arbeit zu verrichten oder Wärme zu erzeugen. Sie tritt in verschiedenen Formen auf, z.B. mechanische, thermische, elektrische und chemische Energie.
 
-Diese korrekte Antwort hilft den SuS jedoch nicht, ein Verständnis von Energie zu entwickeln. Daher kann weiter gefragt werden: Wie messen wir Energie? Wo habt ihr schon mal von einem Energiemessinstrument gehört?
+Diese korrekte Antwort hilft den SuS jedoch nicht, ein Verständnis von Energie zu entwickeln. 
+
+Daher kann weiter gefragt werden: 
+> [!TIP] Frage an die SuS
+> Wie messen wir Energie? Wo habt ihr schon mal von einem Energiemessinstrument gehört? 
+
 
 Die Antwort Stromzähler und Kilowattstunde kommt dann sehr schnell.
 
+> [!TIP] Hervorheben der Kilowattstunde
+> Kilowattstunde und die Darstellung in SI-Einheiten (kW h) an die Tafel oder das Whiteboard bringen.
+
 ## 2. Wie viel Arbeit kann ein Mensch am Tag verrichten (20 Minuten)
 
-Frage an die SuS: Wie viel Arbeit bzw. Energie seid ihr in der Lage, an einem Tag zu verrichten?
+> [!TIP] Frage an die SuS
+> Wie viel Arbeit bzw. Energie seid ihr in der Lage, an einem Tag zu verrichten?
+>
+> Die SuS können schätzen und raten. 
+> 
+> Nach einer kurzen offenen Diskussion sollte vorgeschlagen werden die Menge an Energie zu berechnen, die ein Mensch in der Lage ist an einem Tag zu vollrichten. 
 
-Berechnung über die potenzielle Energie. Wir wollen eine Bergwandertour machen und möglichst hoch hinaussteigen. Wie hoch schaffen wir es an einem Tag? Die SuS sollen schätzen, wie hoch sie in der Lage sind, an einem Tag zu wandern. 
+> [!TIP] Gemeinsame Berechnung 
+> Wir wollen eine Bergwandertour machen und möglichst hoch hinaussteigen. Das Ziel ist es, so hoch hinauszusteigen, dass wir die potenzielle Energie einer Kilowattstunde erreichen.
+> 
+> Gemeinsam mit den SuS wird errechnet wie hoch ein Mensch wandern muss, um die Energie von einer Kilowattstunde potenziell zu erreichen.
 
-Die Schätzungen werden mit den Höhenmetern verglichen, die eine Person mit durchschnittlichem Gewicht für eine Kilowattstunde erreichen kann. Die Formel für die potenzielle Energie lautet: 
+Die Formel für die potenzielle Energie lautet: 
 
 $$E_\mathrm{pot} = m \cdot g \cdot h$$
 
@@ -64,8 +85,12 @@ Dies ist eine Höhe, die nur mit sehr viel Training an einem Tag vollbracht werd
 Eine weitere Möglichkeit zu ermitteln, was ein Mensch in der Lage ist, an einem Tag an Arbeit zu verrichten, ist über ein Leistungsmesser (Powermeter) an einem Fahrrad oder an einem Hometrainer. Ein gut trainierter Sportler schafft hier 100 Watt Leistung über längere Zeit zu halten. Um eine Kilowattstunde zusammenzubringen, müsste der Sportler 10 Stunden durchtreten.
 
 ## 3. Vergleich mit Alltagsaktivitäten  (10 Minuten)
+Am Ende des Wandertages möchte der Sportler und auch der Wanderer gerne warm duschen.
+> [!TIP] Frage an die SuS
+> Wie viel Energie wird für eine warme Dusche benötigt?
 
-Am Ende des Wandertages möchte der Sportler und auch der Wanderer gerne warm duschen. Wie viel Energie wird für eine warme Dusche benötigt? Auch das ist leicht nach der folgenden Formel zu berechnen:
+> [!TIP] Gemeinsame Berechnung 
+> Auch das ist leicht nach der folgenden Formel zu berechnen:
 
 $$E_\mathrm{th} = m \cdot c \cdot \Delta T $$
 
@@ -79,15 +104,20 @@ $$m  = \frac{3 \\, 600 \\, \mathrm{kWs}}{4,2 \\, \mathrm{\frac{kWs}{kg \\, K}} \
 
 Das entspricht etwa $39 \\, \mathrm{L}$ Wasser und mit einer Durchlaufmenge von $13 \\, \mathrm{\frac{L}{min}}$ kann für eine Kilowattstunde gerade mal drei Minuten lang warm geduscht werden.
 
-Würde der Sportler sein Hometrainer an einen Dynamo anschließen und den erzeugten Strom als regenerativen Strom verkaufen wollen, so würde er einen Stundenlohn erhalten, der weit unter 10 Cent pro Stunde liegt.
+> [!NOTE] Anmerkung
+> Würde der Sportler sein Hometrainer an einen Dynamo anschließen und den erzeugten Strom als regenerativen Strom verkaufen wollen, so würde er einen Stundenlohn erhalten, der weit unter 10 Cent pro Stunde liegt.
 
 ## 4. Schätzung des täglichen Energiebedarfs (5 Minuten)
-SuS schätzen ihren täglichen Energiebedarf basierend auf ihren Aktivitäten.
+> [!TIP] Frage an die SuS
+> SuS werden aufgefordert ihren täglichen Energiebedarf zu schätzen.
 
 ## 5. Berechnung des tatsächlichen Bedarfs (20 Minuten)
 ### Jahresverbrauch in Deutschland:
+> [!TIP] Arbeitsauftrag
+> Der durchschnittliche tägliche Energiebedarf eines jeden Bundesbürger soll ermittelt werden.
+>
+> Um den Jahresenergiebedarf der Bundesrepublik Deutschland zu ermitteln, können die SuS aufgefordert werden, dies im Internet zu recherchieren.
 
-Um den Jahresenergiebedarf der Bundesrepublik Deutschland zu ermitteln, können die SuS aufgefordert werden, dies im Internet zu recherchieren.
 - Eine mögliche Quelle ist [Wikipedia Energiebilanz (Energiewirtschaft)](https://de.wikipedia.org/wiki/Energiebilanz_(Energiewirtschaft))
 - oder die [Angaben der AG Energiebilanzen e.V.](https://ag-energiebilanzen.de/energieverbrauch-faellt-kraeftig-weiterer-ausbau-der-erneuerbaren/)
 
@@ -97,12 +127,18 @@ Bei der Recherche stellen die SuS schnell fest, dass unterschiedliche Werte ange
 
 Diese Begriffe müssen erst geklärt werden, damit verstanden werden kann, wie mit diesen Zahlen umgegangen werden kann.
 
+> [!TIP] Erklärung
+> Den SuS werden Umwandlungsverlusten erklärt.
+
 Anhand der folgenden Grafik können die Umwandlungsverluste erklärt werden:
 
 <a title="Railweh10, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Energiegruppen_%C3%9Cbersicht.png"><img width="512" alt="Energiegruppen Übersicht" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Energiegruppen_%C3%9Cbersicht.png?20130402183320"></a>
 > Railweh10, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
 Der Primärenergieverbrauch ist somit der Energiebedarf, den wir inklusive Umwandlungsverluste benötigen.
+
+> [!TIP] Gemeinsame Berechnung 
+> Aus den ermittelten Bundesjahresverbräuchen soll der Pro-Kopf-Verbrauch pro Tag ermittelt werden.
 
 ### Pro-Kopf-Verbrauch pro Tag:
 
@@ -123,15 +159,17 @@ Mit den gefundenen Werten kann der Pro-Kopf-Verbrauch pro Tag in Kilowattstunden
   - Primärenergieverbrauch 2023: $96 \\, \mathrm{kWh}$
   - Endenergieverbrauch 2023: $73 \\, \mathrm{kWh}$
 
-Man kann sagen, dass wir ein Konsumleben führen, welches der Arbeitskraft von 96 Menschen entspricht.
-
-Das ist doppelt so viel wie der weltweite Durchschnitt.
-
-Etwa halb so viel wie der weltweite Spitzenreiter (USA).
+> [!NOTE] Anmerkung
+> Man kann sagen, dass wir ein Konsumleben führen, welches der Arbeitskraft von 96 Menschen entspricht.
+>
+> Das ist doppelt so viel wie der weltweite Durchschnitt.
+>
+> Etwa halb so viel wie der weltweite Spitzenreiter (USA).
 
 ## 6. Diskussion der Bestandteile des Energieverbrauchs (15 Minuten)
 
-Den Schülern wird die folgende Grafik gezeigt und es soll eine offene Diskussion darüber geführt werden, für welche Anteile wir selbst verantwortlich sind.
+> [!TIP] Diskussion
+> Den Schülern wird die folgende Grafik gezeigt und es soll eine offene Diskussion darüber geführt werden, für welche Anteile wir selbst verantwortlich sind.
 
 ```mermaid
 pie title Anteile Energieverbrauch:
