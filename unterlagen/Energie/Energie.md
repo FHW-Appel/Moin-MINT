@@ -412,13 +412,13 @@ Etwa $17 \\, \mathrm{kWh}$ pro Bundesbürger und Tag werden für das Heizen aufg
 
 |  Anteil der Haushalte, die eine Wärmepumpe nutzen  | ersparte Energie durch Wärmepumpen je Bundesbürger pro Tag |
 | ------------- | ------------- | 
-| $5 \\, \\%$ |  $0,9 \\, \mathrm{kWh}$   | 
-| $10 \\, \\%$ |  $1,7 \\, \mathrm{kWh}$   | 
-| $20 \\, \\%$ |  $3,4 \\, \mathrm{kWh}$   | 
-| $30 \\, \\%$ |  $5,1 \\, \mathrm{kWh}$   | 
-| $50 \\, \\%$ |  $8,5 \\, \mathrm{kWh}$   | 
-| $80 \\, \\%$ |  $13,6 \\, \mathrm{kWh}$   | 
-| $100 \\, \\%$ |  $17 \\, \mathrm{kWh}$   | 
+| $5 \\, \\%$ |  $0,6 \\, \mathrm{kW \\, h}$   | 
+| $10 \\, \\%$ |  $1,1 \\, \mathrm{kW \\, h}$   | 
+| $20 \\, \\%$ |  $2,3 \\, \mathrm{kW \\, h}$   | 
+| $30 \\, \\%$ |  $3,4 \\, \mathrm{kW \\, h}$   | 
+| $50 \\, \\%$ |  $5,7 \\, \mathrm{kW \\, h}$   | 
+| $80 \\, \\%$ |  $9,1 \\, \mathrm{kW \\, h}$   | 
+| $100 \\, \\%$ |  $11,3 \\, \mathrm{kW \\, h}$   | 
 
 ## 8. Kohle, Erdöl, Erdgas (10 Minuten)
 
@@ -528,6 +528,14 @@ Seit etwa einem halben Jahrhundert wird von Entwicklern versprochen, dass diese 
 
 Gleiches wie für Fusionskraftwerke gilt natürlich für neue Formen der Atomkraftwerke.
 
+## 9. Diskussion über den eingene Energiemix (15 Minuten)
+
+Nachdem alle möglichen Arten der Energiegewinnung vorgestellt wurden, kann eine Diskussion über einen zukünftigen Energiemix mit den SuS geführt werden. Die SuS können Argumente für und gegen bestimmte Anteile einbringen und sollten sich am Ende der Einheit auf einen Energiemix einigen.
+
+
+
+
+
 # Einheit 3: Energiespeicherung und Transport
 
 ## Lernziele
@@ -547,18 +555,19 @@ Die wohl bekannteste und am weitesten verbreitete Batterie ist der Lithium-Ionen
 | Li-Ion | $0,25 \\, \mathrm{\frac{kWh}{kg}}$ | $0,5 \\, \mathrm{\frac{kWh}{L}}$ |
 | Diesel | $11,9 \\, \mathrm{\frac{kWh}{kg}}$ | $9,7 \\, \mathrm{\frac{kWh}{L}}$ |
 
-Beispiel ist hier der Tesla Model-S Akkumulator mit $85 \\, \mathrm{kWh}$ und einem Gewicht von $750 \\, \mathrm{kg}$. Dieser kommt sogar nur auf eine Energiedichte von $0,11 \\, \mathrm{\frac{kWh}{kg}}$.
+Beispiel ist hier der Tesla Model-S Akkumulator mit $85 \\, \mathrm{kWh}$ und einem Gewicht von $750 \\, \mathrm{kg}$. Dieser kommt sogar nur auf eine Energiedichte von $0,11 \\, \mathrm{\frac{kW \\, h}{kg}}$.
+
+Im Labor konnten bereits Energiedichten von bis zu  $0,71 \\, \mathrm{\frac{kW \\, h}{L}}$ realisiert werden. Es ist somit noch mit einer Steigerung der Energiedichte von marktreifen Batterien zu rechnen.  
 
 Weitere Probleme mit elektrischen Speichern sind die folgenden:
-- Im Fehlerfall kann es zu einer explosionsartigen Energiefreisetzung kommen.
+- Im Fehlerfall können Batterien thermisch Durchgehen. LFP-Batterien weisen eine höhere thermische Stabilität als vorherige Modelle auf und sind somit bereits sicherer. Ausgeschlossen ist ein thermisches Durchgehen jedoch nicht. 
 - Der Abbau von Lithium ist nicht unproblematisch. Auch hier sind massive Eingriffe in die Natur nötig.
-- Die Lithiumvorräte sind endlich.
-- Metallionen sind im Hausmüll und im Grundwasser problematisch. 
+- Die Lithiumvorräte sind endlich. Hier kann auf Natrium umgesattelt werden, diese Technologie weißt jedoch ein höheres Gewicht auf.
 - Die Kosten für die Bereitstellung von $1 \\, \mathrm{kWh}$ Speicher liegen noch bei etwa 50€. 
 
-Dennoch spielen Batteriespeicher eine immer größere Rolle in unserem Stromnetz. Dies liegt daran, dass Batteriespeicher sich hervorragend für die Bereitstellung von Regelenergie nutzen lassen. Regelenergie dient dem Stromnetz zur Stabilisierung des Netzes.
+ Batteriespeicher spielen eine immer größere Rolle in unserem Stromnetz. Dies liegt daran, dass Batteriespeicher sich hervorragend für die Bereitstellung von Regelenergie nutzen lassen. Regelenergie dient dem Stromnetz zur Stabilisierung des Netzes.
 
-Betrachtet man die Kosten und die Energiedichte von Batterien, dann ist es höchst unwahrscheinlich, dass wir diese Technologie für die Speicherung von großen Mengen an Energie nutzen können. Eine Überbrückung von mehreren Wochen oder Monaten kann mit dieser Technologie nicht realisiert werden.
+Betrachtet man die Kosten und die Energiedichte von Batterien, dann ist es  unwahrscheinlich, dass wir diese Technologie für die Speicherung von großen Mengen an Energie nutzen können. Eine Überbrückung von mehreren Wochen oder Monaten kann mit dieser Technologie nicht realisiert werden.
 
 ### Pumpspeicherkraftwerke
 
@@ -584,19 +593,19 @@ Prinzipiell kann elektrische Energie in ein brennbares Gas oder in eine brennbar
 | --- | --- | --- | --- | --- |
 | Wasserstoff | Gas  | Wasser | $\approx 65 \\, \\%$  | $\approx 40 \\, \\%$  |
 | Methan | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ | $\approx 35 \\, \\%$  |
-| Methanol | Gas | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ |   |
+| Methanol | Flüssig | Wasserstoff, $\mathrm{CO}_2$ | $\approx 55 \\, \\%$ |   |
 
 #### Wasserstoff
 
-Um einen Kubikmeter Wasserstoff herzustellen, wird eine Energie von $4,3 \\, \mathrm{kWh}$ bis $4,9 \\, \mathrm{kWh}$ benötigt. Die volumenbezogene Energiedichte (Heizwert) von Wasserstoff beträgt $3 \\, \mathrm{\frac{kWh}{m^3}}$. Daraus ergibt sich ein Wirkungsgrad von $61 \\, \\%$ bis $70 \\, \\%$ bei der Erzeugung von Wasserstoff im Elektrolysator. Möchte man die im Wasserstoff gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Wasserstoff rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $34 \\, \\%$ bis $44 \\, \\%$. 
+Um einen Kubikmeter Wasserstoff herzustellen, wird eine Energie von $4,3 \\, \mathrm{kW \\, h}$ bis $4,9 \\, \mathrm{kW \\, h}$ benötigt. Die volumenbezogene Energiedichte (Heizwert) von Wasserstoff beträgt $3 \\, \mathrm{\frac{kW \\, h}{m^3}}$. Daraus ergibt sich ein Wirkungsgrad von $61 \\, \\%$ bis $70 \\, \\%$ bei der Erzeugung von Wasserstoff im Elektrolysator. Möchte man die im Wasserstoff gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem der Wasserstoff rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $34 \\, \\%$ bis $44 \\, \\%$. 
 
-Die Speicherung von Wasserstoff erfolgt üblicherweise in Drucktanks mit bis zu $700 \\, \mathrm{bar}$. Durch die Speicherung im Drucktank erhöht sich die volumenbezogene Energiedichte auf $2,1 \\, \mathrm{\frac{kWh}{L}}$. Dies ist leider noch 4,6-mal mehr Volumen als beim Diesel. Hinzu kommt, dass der Tank und damit die Lagerung deutlich teurer ist.
+Die Speicherung von Wasserstoff erfolgt üblicherweise in Drucktanks mit bis zu $700 \\, \mathrm{bar}$. Durch die Speicherung im Drucktank erhöht sich die volumenbezogene Energiedichte auf $2,1 \\, \mathrm{\frac{kW \\, h}{L}}$. Dies ist leider noch 4,6-mal mehr Volumen als beim Diesel. Hinzu kommt, dass der Tank und damit die Lagerung deutlich teurer ist.
 
 #### Methan
 
 Methan ist, so wie Wasserstoff, ebenfalls ein Gas. Methan hat jedoch den erheblichen Vorteil, dass es zu $100 \\, \\%$ in das bestehende Gasnetz eingespeist werden kann. Zur Herstellung wird ein weiterer Prozessschritt benötigt. Aus Wasserstoff und Kohlendioxid ($\mathrm{CO}_2$) wird das Methan hergestellt. 
 
-Dieser zusätzliche Prozessschritt löst jedoch das Speicherproblem, da unser Gasnetz mit seinen Gasspeichern ein gigantischer Speicher ist. Zwischen $200 \\, \mathrm{TWh}$ bis zu $330 \\, \mathrm{TWh}$ lassen sich im deutschen Gasnetz speichern. Rechnen wir die Menge auf die $84 \\, 669 \\, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger einer Speichermenge von $2 \\, 362 \\, \mathrm{kWh}$ bis $3 \\, 898 \\, \mathrm{kWh}$. Sprich unser Gesamtenergiebedarf von etwa einem Monat.
+Dieser zusätzliche Prozessschritt löst jedoch das Speicherproblem, da unser Gasnetz mit seinen Gasspeichern ein gigantischer Speicher ist. Zwischen $200 \\, \mathrm{TW \\, h}$ bis zu $330 \\, \mathrm{TW \\, h}$ lassen sich im deutschen Gasnetz speichern. Rechnen wir die Menge auf die $84 \\, 669 \\, 000$ Bundesbürger runter, dann entspricht das pro Bundesbürger einer Speichermenge von $2 \\, 362 \\, \mathrm{kW \\, h}$ bis $3 \\, 898 \\, \mathrm{kW \\, h}$. Sprich unser Gesamtenergiebedarf von etwa einem Monat.
 
 Zwei Probleme sind jedoch noch zu lösen. Erstens wird für die Herstellung Kohlendioxid ($\mathrm{CO}_2$) benötigt und zweitens liegt der Wirkungsgrad bei der Erzeugung bei $51 \\, \\%$ bis $65 \\, \\%$. Möchte man die im Methan gespeicherte Energie zu einem späteren Zeitpunkt wieder in elektrische Energie wandeln, indem das Methan rückverstromt wird, dann ergibt sich ein Gesamtwirkungsgrad von nur noch $30 \\, \\%$ bis $38 \\, \\%$. 
 
