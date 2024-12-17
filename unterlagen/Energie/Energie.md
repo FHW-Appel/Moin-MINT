@@ -24,7 +24,8 @@ Die Lehrkräfte können sich dieser Vorschläge annehmen, diese umändern oder n
 - Einführung in Primär-, Sekundär- und Endenergiebedarf.
 
 ## 1. Energie und die Einheit Kilowattstunde (kW h) (5 Minuten)
-> [!TIP]
+> 🙋 **Frage**
+> 
 > Was ist Energie? 
 
 Eine mögliche Antwort lautet: Energie ist die Fähigkeit, Arbeit zu verrichten oder Wärme zu erzeugen. Sie tritt in verschiedenen Formen auf, z.B. mechanische, thermische, elektrische und chemische Energie.
@@ -32,7 +33,8 @@ Eine mögliche Antwort lautet: Energie ist die Fähigkeit, Arbeit zu verrichten 
 Diese korrekte Antwort hilft den SuS jedoch nicht, ein Verständnis von Energie zu entwickeln. 
 
 Daher kann weiter gefragt werden: 
-> [!TIP]
+> 🙋 **Frage**
+> 
 > Wie messen wir Energie? Wo habt ihr schon mal von einem Energiemessinstrument gehört? 
 
 
@@ -43,17 +45,18 @@ Die Antwort Stromzähler und Kilowattstunde kommt dann sehr schnell.
 
 ## 2. Wie viel Arbeit kann ein Mensch am Tag verrichten (20 Minuten)
 
-> [!TIP]
+> 🙋 **Frage**
+> 
 > Wie viel Arbeit bzw. Energie seid ihr in der Lage, an einem Tag zu verrichten?
 >
 > Die SuS können schätzen und raten. 
 > 
 > Nach einer kurzen offenen Diskussion sollte vorgeschlagen werden die Menge an Energie zu berechnen, die ein Mensch in der Lage ist an einem Tag zu vollrichten. 
 
-> [!TIP]
-> Wir wollen eine Bergwandertour machen und möglichst hoch hinaussteigen. Das Ziel ist es, so hoch hinauszusteigen, dass wir die potenzielle Energie einer Kilowattstunde erreichen.
+> 🙋 **gemeinsame Berechnung**
 > 
-> Gemeinsam mit den SuS wird errechnet wie hoch ein Mensch wandern muss, um die Energie von einer Kilowattstunde potenziell zu erreichen.
+> Wir wollen eine Bergwandertour machen und möglichst hoch hinaussteigen. Das Ziel ist es, so hoch bergauf zusteigen, dass wir die potenzielle Energie einer Kilowattstunde erreichen.
+
 
 Die Formel für die potenzielle Energie lautet: 
 
@@ -87,10 +90,12 @@ Eine weitere Möglichkeit zu ermitteln, was ein Mensch in der Lage ist, an einem
 
 ## 3. Vergleich mit Alltagsaktivitäten  (10 Minuten)
 Am Ende des Wandertages möchte der Sportler und auch der Wanderer gerne warm duschen.
-> [!TIP]
+> 🙋 **Frage**
+> 
 > Wie viel Energie wird für eine warme Dusche benötigt?
 
-> [!TIP] 
+> 🙋 **gemeinsame Berechnung**
+> 
 > Auch das ist leicht nach der folgenden Formel zu berechnen:
 
 $$E_\mathrm{th} = m \cdot c \cdot \Delta T $$
@@ -109,12 +114,14 @@ Das entspricht etwa $39 \\, \mathrm{L}$ Wasser und mit einer Durchlaufmenge von 
 > Würde der Sportler sein Hometrainer an einen Dynamo anschließen und den erzeugten Strom als regenerativen Strom verkaufen wollen, so würde er einen Stundenlohn erhalten, der weit unter 10 Cent pro Stunde liegt.
 
 ## 4. Schätzung des täglichen Energiebedarfs (5 Minuten)
-> [!TIP]
+> 🙋 **Schätzfrage**
+> 
 > SuS werden aufgefordert ihren täglichen Energiebedarf zu schätzen.
 
 ## 5. Berechnung des tatsächlichen Bedarfs (20 Minuten)
 ### Jahresverbrauch in Deutschland:
-> [!TIP]
+> 🙋 **Recherche und Berechnung**
+> 
 > Der durchschnittliche tägliche Energiebedarf eines jeden Bundesbürger soll ermittelt werden.
 >
 > Um den Jahresenergiebedarf der Bundesrepublik Deutschland zu ermitteln, können die SuS aufgefordert werden, dies im Internet zu recherchieren.
@@ -128,7 +135,8 @@ Bei der Recherche stellen die SuS schnell fest, dass unterschiedliche Werte ange
 
 Diese Begriffe müssen erst geklärt werden, damit verstanden werden kann, wie mit diesen Zahlen umgegangen werden kann.
 
-> [!TIP]
+> 🙋 **Definition**
+> 
 > Den SuS werden Umwandlungsverlusten erklärt.
 
 Anhand der folgenden Grafik können die Umwandlungsverluste erklärt werden:
@@ -138,7 +146,8 @@ Anhand der folgenden Grafik können die Umwandlungsverluste erklärt werden:
 
 Der Primärenergieverbrauch ist somit der Energiebedarf, den wir inklusive Umwandlungsverluste benötigen.
 
-> [!TIP]
+> 🙋 **gemeinsame Berechnung**
+> 
 > Aus den ermittelten Bundesjahresverbräuchen soll der Pro-Kopf-Verbrauch pro Tag ermittelt werden.
 
 ### Pro-Kopf-Verbrauch pro Tag:
@@ -169,7 +178,8 @@ Mit den gefundenen Werten kann der Pro-Kopf-Verbrauch pro Tag in Kilowattstunden
 
 ## 6. Diskussion der Bestandteile des Energieverbrauchs (15 Minuten)
 
-> [!TIP]
+> 🙋 **Diskussion**
+> 
 > Den Schülern wird die folgende Grafik gezeigt und es soll eine offene Diskussion darüber geführt werden, für welche Anteile wir selbst verantwortlich sind.
 
 ```mermaid
