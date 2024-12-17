@@ -1,8 +1,9 @@
 Dieser Unterrichtsentwurf ist geeignet für die **Stufe 10 bis 12** und besteht aus drei Einheiten. Ziel ist es, den Schülerinnen und Schülern (SuS) ein fundiertes Verständnis von Energie, ihren Quellen, ihrem Verbrauch und den Herausforderungen bei Transport und Speicherung zu vermitteln.
 
 Ursprünglich war der folgende Text als reiner Unterrichtsentwurf geplant. Beim Verfassen des Textes ist jedoch schnell aufgefallen, dass viele Berechnungen und Fakten nötig sind. Daraus entstand der Anspruch, der Leserin bzw. dem Leser diese Berechnungen und Fakten innerhalb des Textes aufzuarbeiten. Daher eignet sich dieser Text auch als Nachschlagewerk für Lehrkräfte. Zwischen den vielen Berechnungen und Informationen werden Vorschläge für die Einbindung der Inhalte in den Unterricht dargeboten. 
-> [!TIP] 
-> Die Einbindung der SuS wird grün hervorgehoben.
+> 🙋 **SuS Interaktion**
+> 
+> Die Einbindung der SuS wird hervorgehoben.
 
 Die Lehrkräfte können sich dieser Vorschläge annehmen, diese umändern oder nur einen Teil der Inhalte vermitteln. Der Umfang der Inhalte ist sehr groß. Dies war initial nicht beabsichtigt, dennoch hat dies die ernsthafte Auseinandersetzung mit dem Thema erfordert. Ich wünsche Ihnen viel Freude bei der Lektüre, mir hat das Verfassen große Freude bereitet.
 
