@@ -346,6 +346,20 @@ Aus den gegebenen Windgeschwindigkeiten und der Tatsache, dass Windkraftanlagen 
   - Onshore $16 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll.
   - Offshore $8 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll.
 
+<!-- 
+Windanlagen können nicht beliebig dicht gestellt werden. Der Sogenannte Wake-Effekt sorgt dafür, dass Windabschattungen und Turbulenzen die Effektivität der Anlagen beeinflussen. Die Daumenformel lautet Abstand gleich 4-5 facher Rotordurchmesser in Hauptwindrichtung und 2-3 facher Rotordurchmesser in Nebenwindrichtung. 
+
+Wird der Abstand weiter verringert, so werden die Energieerträge größer, jedoch sinken ab einem gewissen Abstand die finanziellen Gewinne, da Investitionskosten schneller steigen als die Ertragsgewinne.
+
+Neuere Anlagen können jedoch einen kleineren Abstand realisieren und dennoch einen höheren Gewinn erzeugen.
+
+Eine weiter Möglichkeit, um Windanlagen dichter zu platzieren, ist der Einsatz von Yaw-Control. Bei diesem Verfahren werden die Anlagen so im Wind verdreht, dass die Turbulenzen nicht direkt auf die dahinterliegende Anlage auftreffen.
+
+Mögliche Quellen:
+BWE, Frauenhofer
+WindGuard: Kostensituation
+-->
+
 Auf alle $84 \\, 669 \\, 000$ Bundesbürger (2023) hochgerechnet entspricht das für einen Flächenbedarf an Land von $16 \\, \mathrm{m^2}$ für eine Kilowattstunde, die täglich erzeugt werden soll, einer Fläche von $1 \\, 354 \\, 704 \\, 000 \\, \mathrm{m^2}$ bzw. $1 \\, 355 \\, \mathrm{km^2}$, was bei einer Bundesfläche von $357 \\, 588  \\, \mathrm{km^2}$ etwa $0,38 \\, \\%$ entspricht.
 
 |  Onshore Windenergie je Bundesbürger pro Tag  | Flächenbedarf | Flächenbedarf % |
